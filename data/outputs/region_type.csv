@@ -1,0 +1,410 @@
+local-authority-code,official-name,league-group,region,local-authority-type-name
+ABC,"Armagh City, Banbridge and Craigavon Borough Council",Northern Ireland,Northern Ireland,NI district
+ABD,Aberdeenshire Council,Single tier,Scotland,Scottish unitary authority
+ABE,Aberdeen City Council,Single tier,Scotland,Scottish unitary authority
+ADU,Adur District Council,District councils,South East,Non-metropolitan district
+AGB,Argyll and Bute Council,Single tier,Scotland,Scottish unitary authority
+AGY,Isle of Anglesey County Council,Single tier,Wales,Welsh unitary authority
+ALL,Allerdale Borough Council,District councils,North West,Non-metropolitan district
+AMB,Amber Valley Borough Council,District councils,East Midlands,Non-metropolitan district
+AND,Ards and North Down Borough Council,Northern Ireland,Northern Ireland,NI district
+ANN,Antrim and Newtownabbey Borough Council,Northern Ireland,Northern Ireland,NI district
+ANS,Angus Council,Single tier,Scotland,Scottish unitary authority
+ARU,Arun District Council,District councils,South East,Non-metropolitan district
+ASF,Ashford Borough Council,District councils,South East,Non-metropolitan district
+ASH,Ashfield District Council,District councils,East Midlands,Non-metropolitan district
+BAB,Babergh District Council,District councils,East of England,Non-metropolitan district
+BAE,Bassetlaw District Council,District councils,East Midlands,Non-metropolitan district
+BAI,Basildon Borough Council,District councils,East of England,Non-metropolitan district
+BAN,Basingstoke and Deane Borough Council,District councils,South East,Non-metropolitan district
+BAR,Barrow-in-Furness Borough Council,District councils,North West,Non-metropolitan district
+BAS,Bath and North East Somerset Council,Single tier,South West,Unitary authority
+BBD,Blackburn with Darwen Borough Council,Single tier,North West,Unitary authority
+BDF,Bedford Borough Council,Single tier,East of England,Unitary authority
+BDG,London Borough of Barking and Dagenham,Single tier,London,London borough
+BEN,London Borough of Brent,Single tier,London,London borough
+BEX,London Borough of Bexley,Single tier,London,London borough
+BFS,Belfast City Council,Northern Ireland,Northern Ireland,NI district
+BGE,Bridgend County Borough Council,Single tier,Wales,Welsh unitary authority
+BGW,Blaenau Gwent County Borough Council,Single tier,Wales,Welsh unitary authority
+BIR,Birmingham City Council,Single tier,West Midlands,Metropolitan district
+BLA,Blaby District Council,District councils,East Midlands,Non-metropolitan district
+BNE,London Borough of Barnet,Single tier,London,London borough
+BNH,Brighton and Hove City Council,Single tier,South East,Unitary authority
+BNS,Barnsley Metropolitan Borough Council,Single tier,Yorkshire and The Humber,Metropolitan district
+BOL,Bolton Metropolitan Borough Council,Single tier,North West,Metropolitan district
+BOS,Bolsover District Council,District councils,East Midlands,Non-metropolitan district
+BOT,Boston Borough Council,District councils,East Midlands,Non-metropolitan district
+BPC,"Bournemouth, Christchurch and Poole Council",Single tier,South West,Unitary authority
+BPL,Blackpool Borough Council,Single tier,North West,Unitary authority
+BRA,Braintree District Council,District councils,East of England,Non-metropolitan district
+BRC,Bracknell Forest Council,Single tier,South East,Unitary authority
+BRD,City of Bradford Metropolitan District Council,Single tier,Yorkshire and The Humber,Metropolitan district
+BRE,Breckland District Council,District councils,East of England,Non-metropolitan district
+BRM,Bromsgrove District Council,District councils,West Midlands,Non-metropolitan district
+BRO,Broadland District Council,District councils,East of England,Non-metropolitan district
+BRT,Broxtowe Borough Council,District councils,East Midlands,Non-metropolitan district
+BRW,Brentwood Borough Council,District councils,East of England,Non-metropolitan district
+BRX,Broxbourne Borough Council,District councils,East of England,Non-metropolitan district
+BRY,London Borough of Bromley,Single tier,London,London borough
+BST,Bristol City Council,Single tier,South West,Unitary authority
+BUC,Buckinghamshire Council,Single tier,South East,Unitary authority
+BUN,Burnley Borough Council,District councils,North West,Non-metropolitan district
+BUR,Bury Metropolitan Borough Council,Single tier,North West,Metropolitan district
+CAB,Cambridge City Council,District councils,East of England,Non-metropolitan district
+CAM,Cambridgeshire County Council,County councils,East of England,County
+CAN,Cannock Chase District Council,District councils,West Midlands,Non-metropolitan district
+CAR,Carlisle City Council,District councils,North West,Non-metropolitan district
+CAS,Castle Point Borough Council,District councils,East of England,Non-metropolitan district
+CAT,Canterbury City Council,District councils,South East,Non-metropolitan district
+CAY,Caerphilly County Borough Council,Single tier,Wales,Welsh unitary authority
+CBF,Central Bedfordshire Council,Single tier,East of England,Unitary authority
+CCG,Causeway Coast and Glens Borough Council,Northern Ireland,Northern Ireland,NI district
+CGN,Ceredigion County Council,Single tier,Wales,Welsh unitary authority
+CHA,Charnwood Borough Council,District councils,East Midlands,Non-metropolitan district
+CHE,Cheshire East Council,Single tier,North West,Unitary authority
+CHI,Chichester District Council,District councils,South East,Non-metropolitan district
+CHL,Chelmsford City Council,District councils,East of England,Non-metropolitan district
+CHO,Chorley Borough Council,District councils,North West,Non-metropolitan district
+CHR,Cherwell District Council,District councils,South East,Non-metropolitan district
+CHS,Chesterfield Borough Council,District councils,East Midlands,Non-metropolitan district
+CHT,Cheltenham Borough Council,District councils,South West,Non-metropolitan district
+CHW,Cheshire West and Chester Council,Single tier,North West,Unitary authority
+CLD,Calderdale Metropolitan Borough Council,Single tier,Yorkshire and The Humber,Metropolitan district
+CLK,Clackmannanshire Council,Single tier,Scotland,Scottish unitary authority
+CMA,Cumbria County Council,County councils,North West,County
+CMD,London Borough of Camden,Single tier,London,London borough
+CMN,Carmarthenshire County Council,Single tier,Wales,Welsh unitary authority
+COL,Colchester Borough Council,District councils,East of England,Non-metropolitan district
+CON,Cornwall Council,Single tier,South West,Unitary authority
+COP,Copeland Borough Council,District councils,North West,Non-metropolitan district
+COT,Cotswold District Council,District councils,South West,Non-metropolitan district
+COV,Coventry City Council,Single tier,West Midlands,Metropolitan district
+CPCA,Cambridgeshire and Peterborough Combined Authority,Combined/strategic authorities,East,Combined authority
+CRA,Craven District Council,District councils,Yorkshire and The Humber,Non-metropolitan district
+CRF,City of Cardiff Council,Single tier,Wales,Welsh unitary authority
+CRW,Crawley Borough Council,District councils,South East,Non-metropolitan district
+CRY,London Borough of Croydon,Single tier,London,London borough
+CWY,Conwy County Borough Council,Single tier,Wales,Welsh unitary authority
+DAC,Dacorum Borough Council,District councils,East of England,Non-metropolitan district
+DAL,Darlington Borough Council,Single tier,North East,Unitary authority
+DAR,Dartford Borough Council,District councils,South East,Non-metropolitan district
+DBY,Derbyshire County Council,County councils,West Midlands,County
+DEB,Derbyshire Dales District Council,District councils,East Midlands,Non-metropolitan district
+DEN,Denbighshire County Council,Single tier,Wales,Welsh unitary authority
+DER,Derby City Council,Single tier,East Midlands,Unitary authority
+DEV,Devon County Council,County councils,South West,County
+DGY,Dumfries and Galloway Council,Single tier,Scotland,Scottish unitary authority
+DNC,Doncaster Metropolitan Borough Council,Single tier,Yorkshire and The Humber,Metropolitan district
+DND,Dundee City Council,Single tier,Scotland,Scottish unitary authority
+DOV,Dover District Council,District councils,South East,Non-metropolitan district
+DRS,Derry City and Strabane District Council,Northern Ireland,Northern Ireland,NI district
+DST,Dorset Council,Single tier,South West,Unitary authority
+DUD,Dudley Metropolitan Borough Council,Single tier,West Midlands,Metropolitan district
+DUR,Durham County Council,Single tier,North East,Unitary authority
+EAL,London Borough of Ealing,Single tier,London,London borough
+EAS,Eastbourne Borough Council,District councils,South East,Non-metropolitan district
+EAT,Eastleigh Borough Council,District councils,South East,Non-metropolitan district
+EAY,East Ayrshire Council,Single tier,Scotland,Scottish unitary authority
+ECA,East Cambridgeshire District Council,District councils,East of England,Non-metropolitan district
+EDE,East Devon District Council,District councils,South West,Non-metropolitan district
+EDH,City of Edinburgh Council,Single tier,Scotland,Scottish unitary authority
+EDN,Eden District Council,District councils,North West,Non-metropolitan district
+EDU,East Dunbartonshire Council,Single tier,Scotland,Scottish unitary authority
+EHA,East Hampshire District Council,District councils,South East,Non-metropolitan district
+EHE,East Hertfordshire District Council,District councils,East of England,Non-metropolitan district
+ELI,East Lindsey District Council,District councils,East Midlands,Non-metropolitan district
+ELM,Elmbridge Borough Council,District councils,South East,Non-metropolitan district
+ELN,East Lothian Council,Single tier,Scotland,Scottish unitary authority
+ELS,Comhairle nan Eilean Siar,Single tier,Scotland,Scottish unitary authority
+ENF,London Borough of Enfield,Single tier,London,London borough
+EPP,Epping Forest District Council,District councils,East of England,Non-metropolitan district
+EPS,Epsom and Ewell Borough Council,District councils,South East,Non-metropolitan district
+ERE,Erewash Borough Council,District councils,East Midlands,Non-metropolitan district
+ERW,East Renfrewshire Council,Single tier,Scotland,Scottish unitary authority
+ERY,East Riding of Yorkshire Council,Single tier,Yorkshire and The Humber,Unitary authority
+ESK,East Suffolk Council,District councils,East of England,Non-metropolitan district
+ESS,Essex County Council,County councils,East of England,County
+EST,East Staffordshire Borough Council,District councils,West Midlands,Non-metropolitan district
+ESX,East Sussex County Council,County councils,South East,County
+EXE,Exeter City Council,District councils,South West,Non-metropolitan district
+FAL,Falkirk Council,Single tier,Scotland,Scottish unitary authority
+FAR,Fareham Borough Council,District councils,South East,Non-metropolitan district
+FEN,Fenland District Council,District councils,East of England,Non-metropolitan district
+FIF,Fife Council,Single tier,Scotland,Scottish unitary authority
+FLN,Flintshire County Council,Single tier,Wales,Welsh unitary authority
+FMO,Fermanagh and Omagh District Council,Northern Ireland,Northern Ireland,NI district
+FOE,Forest of Dean District Council,District councils,South West,Non-metropolitan district
+FYL,Fylde Borough Council,District councils,North West,Non-metropolitan district
+GAT,Gateshead Metropolitan Borough Council,Single tier,North East,Metropolitan district
+GED,Gedling Borough Council,District councils,East Midlands,Non-metropolitan district
+GLA,Greater London Authority,Combined/strategic authorities,London,Strategic Regional Authority
+GLG,Glasgow City Council,Single tier,Scotland,Scottish unitary authority
+GLO,Gloucester City Council,District councils,South West,Non-metropolitan district
+GLS,Gloucestershire County Council,County councils,South West,County
+GMCA,Greater Manchester Combined Authority,Combined/strategic authorities,North West,Combined authority
+GOS,Gosport Borough Council,District councils,South East,Non-metropolitan district
+GRA,Gravesham Borough Council,District councils,South East,Non-metropolitan district
+GRE,Royal Borough of Greenwich,Single tier,London,London borough
+GRT,Guildford Borough Council,District councils,South East,Non-metropolitan district
+GRY,Great Yarmouth Borough Council,District councils,East of England,Non-metropolitan district
+GWN,Gwynedd Council,Single tier,Wales,Welsh unitary authority
+HAA,Havant Borough Council,District councils,South East,Non-metropolitan district
+HAE,Hambleton District Council,District councils,Yorkshire and The Humber,Non-metropolitan district
+HAG,Harrogate Borough Council,District councils,Yorkshire and The Humber,Non-metropolitan district
+HAL,Halton Borough Council,Single tier,North West,Unitary authority
+HAM,Hampshire County Council,County councils,South East,County
+HAO,Harborough District Council,District councils,East Midlands,Non-metropolitan district
+HAR,Harlow District Council,District councils,East of England,Non-metropolitan district
+HAS,Hastings Borough Council,District councils,South East,Non-metropolitan district
+HAT,Hart District Council,District councils,South East,Non-metropolitan district
+HAV,London Borough of Havering,Single tier,London,London borough
+HCK,London Borough of Hackney,Single tier,London,London borough
+HEF,Herefordshire Council,Single tier,West Midlands,Unitary authority
+HER,Hertsmere Borough Council,District councils,East of England,Non-metropolitan district
+HIG,High Peak Borough Council,District councils,East Midlands,Non-metropolitan district
+HIL,London Borough of Hillingdon,Single tier,London,London borough
+HIN,Hinckley and Bosworth Borough Council,District councils,East Midlands,Non-metropolitan district
+HLD,The Highland Council,Single tier,Scotland,Scottish unitary authority
+HMF,London Borough of Hammersmith & Fulham,Single tier,London,London borough
+HNS,London Borough of Hounslow,Single tier,London,London borough
+HOR,Horsham District Council,District councils,South East,Non-metropolitan district
+HPL,Hartlepool Borough Council,Single tier,North East,Unitary authority
+HRT,Hertfordshire County Council,County councils,East of England,County
+HRW,London Borough of Harrow,Single tier,London,London borough
+HRY,London Borough of Haringey,Single tier,London,London borough
+HUN,Huntingdonshire District Council,District councils,East of England,Non-metropolitan district
+HYN,Hyndburn Borough Council,District councils,North West,Non-metropolitan district
+IOS,Council of the Isles of Scilly,Single tier,South West,Unitary authority
+IOW,Isle of Wight Council,Single tier,South East,Unitary authority
+IPS,Ipswich Borough Council,District councils,East of England,Non-metropolitan district
+ISL,London Borough of Islington,Single tier,London,London borough
+IVC,Inverclyde Council,Single tier,Scotland,Scottish unitary authority
+KEC,Royal Borough of Kensington and Chelsea,Single tier,London,London borough
+KEN,Kent County Council,County councils,South East,County
+KHL,Hull City Council,Single tier,Yorkshire and The Humber,Unitary authority
+KIN,Borough Council of Kings Lynn and West Norfolk,District councils,East of England,Non-metropolitan district
+KIR,Kirklees Council,Single tier,Yorkshire and The Humber,Metropolitan district
+KTT,Royal Borough of Kingston upon Thames,Single tier,London,London borough
+KWL,Knowsley Metropolitan Borough Council,Single tier,North West,Metropolitan district
+LAC,Lancaster City Council,District councils,North West,Non-metropolitan district
+LAN,Lancashire County Council,County councils,North West,County
+LBC,Lisburn and Castlereagh City Council,Northern Ireland,Northern Ireland,NI district
+LBH,London Borough of Lambeth,Single tier,London,London borough
+LCE,Leicester City Council,Single tier,East Midlands,Unitary authority
+LCR,Liverpool City Region,Combined/strategic authorities,North West,Combined authority
+LDS,Leeds City Council,Single tier,Yorkshire and The Humber,Metropolitan district
+LEC,Leicestershire County Council,County councils,East Midlands,County
+LEE,Lewes District Council,District councils,South East,Non-metropolitan district
+LEW,London Borough of Lewisham,Single tier,London,London borough
+LIC,City of Lincoln Council,District councils,East Midlands,Non-metropolitan district
+LIF,Lichfield District Council,District councils,West Midlands,Non-metropolitan district
+LIN,Lincolnshire County Council,County councils,Yorkshire and The Humber,County
+LIV,Liverpool City Council,Single tier,North West,Metropolitan district
+LND,City of London Corporation,Single tier,London,City corporation
+LUT,Luton Borough Council,Single tier,East of England,Unitary authority
+MAI,Maidstone Borough Council,District councils,South East,Non-metropolitan district
+MAL,Maldon District Council,District councils,East of England,Non-metropolitan district
+MAN,Manchester City Council,Single tier,North West,Metropolitan district
+MAS,Mansfield District Council,District councils,East Midlands,Non-metropolitan district
+MAV,Malvern Hills District Council,District councils,West Midlands,Non-metropolitan district
+MDB,Middlesbrough Borough Council,Single tier,North East,Unitary authority
+MDE,Mid Devon District Council,District councils,South West,Non-metropolitan district
+MDW,Medway Council,Single tier,South East,Unitary authority
+MEA,Mid and East Antrim Borough Council,Northern Ireland,Northern Ireland,NI district
+MEL,Melton Borough Council,District councils,East Midlands,Non-metropolitan district
+MEN,Mendip District Council,District councils,South West,Non-metropolitan district
+MIK,Milton Keynes Council,Single tier,South East,Unitary authority
+MLN,Midlothian Council,Single tier,Scotland,Scottish unitary authority
+MOL,Mole Valley District Council,District councils,South East,Non-metropolitan district
+MON,Monmouthshire County Council,Single tier,Wales,Welsh unitary authority
+MRT,London Borough of Merton,Single tier,London,London borough
+MRY,The Moray Council,Single tier,Scotland,Scottish unitary authority
+MSS,Mid Sussex District Council,District councils,South East,Non-metropolitan district
+MSU,Mid Suffolk District Council,District councils,East of England,Non-metropolitan district
+MTY,Merthyr Tydfil County Borough Council,Single tier,Wales,Welsh unitary authority
+MUL,Mid Ulster District Council,Northern Ireland,Northern Ireland,NI district
+NAY,North Ayrshire Council,Single tier,Scotland,Scottish unitary authority
+NBL,Northumberland County Council,Single tier,North East,Unitary authority
+NDE,North Devon District Council,District councils,South West,Non-metropolitan district
+NEA,Newark and Sherwood District Council,District councils,East Midlands,Non-metropolitan district
+NEC,Newcastle-under-Lyme Borough Council,District councils,West Midlands,Non-metropolitan district
+NECA,North East Combined Authority,Combined/strategic authorities,North East,Combined authority
+NED,North East Derbyshire District Council,District councils,East Midlands,Non-metropolitan district
+NEL,North East Lincolnshire Council,Single tier,Yorkshire and The Humber,Unitary authority
+NET,Newcastle City Council,Single tier,North East,Metropolitan district
+NEW,New Forest District Council,District councils,South East,Non-metropolitan district
+NFK,Norfolk County Council,County councils,East of England,County
+NGM,Nottingham City Council,Single tier,East Midlands,Unitary authority
+NHE,North Hertfordshire District Council,District councils,East of England,Non-metropolitan district
+NKE,North Kesteven District Council,District councils,East Midlands,Non-metropolitan district
+NLK,North Lanarkshire Council,Single tier,Scotland,Scottish unitary authority
+NLN,North Lincolnshire Council,Single tier,Yorkshire and The Humber,Unitary authority
+NMD,"Newry, Mourne and Down District Council",Northern Ireland,Northern Ireland,NI district
+NNO,North Norfolk District Council,District councils,East of England,Non-metropolitan district
+NNT,North Northamptonshire Council,Single tier,East Midlands,Unitary authority
+NOW,Norwich City Council,District councils,East of England,Non-metropolitan district
+NSM,North Somerset  Council,Single tier,South West,Unitary authority
+NTCA,North of Tyne Combined Authority,Combined/strategic authorities,North East,Combined authority
+NTL,Neath Port Talbot County Borough Council,Single tier,Wales,Welsh unitary authority
+NTT,Nottinghamshire County Council,County councils,East Midlands,County
+NTY,North Tyneside Council,Single tier,North East,Metropolitan district
+NUN,Nuneaton and Bedworth Borough Council,District councils,West Midlands,Non-metropolitan district
+NWA,North Warwickshire Borough Council,District councils,West Midlands,Non-metropolitan district
+NWL,North West Leicestershire District Council,District councils,East Midlands,Non-metropolitan district
+NWM,London Borough of Newham,Single tier,London,London borough
+NWP,Newport City Council,Single tier,Wales,Welsh unitary authority
+NYK,North Yorkshire County Council,County councils,Yorkshire and The Humber,County
+OAD,Oadby and Wigston Borough Council,District councils,East Midlands,Non-metropolitan district
+OLD,Oldham Metropolitan Borough Council,Single tier,North West,Metropolitan district
+ORK,Orkney Islands Council,Single tier,Scotland,Scottish unitary authority
+OXF,Oxfordshire County Council,County councils,South East,County
+OXO,Oxford City Council,District councils,South East,Non-metropolitan district
+PEM,Pembrokeshire County Council,Single tier,Wales,Welsh unitary authority
+PEN,Pendle Borough Council,District councils,North West,Non-metropolitan district
+PKN,Perth and Kinross Council,Single tier,Scotland,Scottish unitary authority
+PLY,Plymouth City Council,Single tier,South West,Unitary authority
+POR,Portsmouth City Council,Single tier,South East,Unitary authority
+POW,Powys County Council,Single tier,Wales,Welsh unitary authority
+PRE,Preston City Council,District councils,North West,Non-metropolitan district
+PTE,Peterborough City Council,Single tier,East of England,Unitary authority
+RCC,Redcar and Cleveland Borough Council,Single tier,North East,Unitary authority
+RCH,Rochdale Metropolitan Borough Council,Single tier,North West,Metropolitan district
+RCT,Rhondda Cynon Taf County Borough Council,Single tier,Wales,Welsh unitary authority
+RDB,London Borough of Redbridge,Single tier,London,London borough
+RDG,Reading Borough Council,Single tier,South East,Unitary authority
+RED,Redditch Borough Council,District councils,West Midlands,Non-metropolitan district
+REI,Reigate and Banstead Borough Council,District councils,South East,Non-metropolitan district
+RFW,Renfrewshire Council,Single tier,Scotland,Scottish unitary authority
+RIB,Ribble Valley Borough Council,District councils,North West,Non-metropolitan district
+RIC,London Borough of Richmond upon Thames,Single tier,London,London borough
+RIH,Richmondshire District Council,District councils,Yorkshire and The Humber,Non-metropolitan district
+ROC,Rochford District Council,District councils,East of England,Non-metropolitan district
+ROH,Rother District Council,District councils,South East,Non-metropolitan district
+ROS,Rossendale Borough Council,District councils,North West,Non-metropolitan district
+ROT,Rotherham Metropolitan Borough Council,Single tier,Yorkshire and The Humber,Metropolitan district
+RUG,Rugby Borough Council,District councils,West Midlands,Non-metropolitan district
+RUH,Rushmoor Borough Council,District councils,South East,Non-metropolitan district
+RUN,Runnymede Borough Council,District councils,South East,Non-metropolitan district
+RUS,Rushcliffe Borough Council,District councils,East Midlands,Non-metropolitan district
+RUT,Rutland County Council,Single tier,East Midlands,Unitary authority
+RYE,Ryedale District Council,District councils,Yorkshire and The Humber,Non-metropolitan district
+SAL,St Albans City and District Council,District councils,East of England,Non-metropolitan district
+SAW,Sandwell Metropolitan Borough Council,Single tier,West Midlands,Metropolitan district
+SAY,South Ayrshire Council,Single tier,Scotland,Scottish unitary authority
+SCA,South Cambridgeshire District Council,District councils,East of England,Non-metropolitan district
+SCB,Scottish Borders Council,Single tier,Scotland,Scottish unitary authority
+SCE,Scarborough Borough Council,District councils,Yorkshire and The Humber,Non-metropolitan district
+SCR,Sheffield City Region,Combined/strategic authorities,Yorkshire and The Humber,Combined authority
+SDE,South Derbyshire District Council,District councils,East Midlands,Non-metropolitan district
+SEG,Sedgemoor District Council,District councils,South West,Non-metropolitan district
+SEL,Selby District Council,District councils,Yorkshire and The Humber,Non-metropolitan district
+SEV,Sevenoaks District Council,District councils,South East,Non-metropolitan district
+SFK,Suffolk County Council,County councils,East of England,County
+SFT,Sefton Metropolitan Borough Council,Single tier,North West,Metropolitan district
+SGC,South Gloucestershire Council,Single tier,South West,Unitary authority
+SHA,South Hams District Council,District councils,South West,Non-metropolitan district
+SHE,Folkestone and Hythe District Council,District councils,South East,Non-metropolitan district
+SHF,Sheffield City Council,Single tier,Yorkshire and The Humber,Metropolitan district
+SHN,St Helens Council,Single tier,North West,Metropolitan district
+SHO,South Holland District Council,District councils,East Midlands,Non-metropolitan district
+SHR,Shropshire Council,Single tier,West Midlands,Unitary authority
+SKE,South Kesteven District Council,District councils,East Midlands,Non-metropolitan district
+SKP,Stockport Metropolitan Borough Council,Single tier,North West,Metropolitan district
+SLA,South Lakeland District Council,District councils,North West,Non-metropolitan district
+SLF,Salford City Council,Single tier,North West,Metropolitan district
+SLG,Slough Borough Council,Single tier,South East,Unitary authority
+SLK,South Lanarkshire Council,Single tier,Scotland,Scottish unitary authority
+SND,Sunderland City Council,Single tier,North East,Metropolitan district
+SNO,South Norfolk District Council,District councils,East of England,Non-metropolitan district
+SOL,Solihull Metropolitan Borough Council,Single tier,West Midlands,Metropolitan district
+SOM,Somerset County Council,County councils,South West,County
+SOS,Southend-on-Sea Borough Council,Single tier,East of England,Unitary authority
+SOX,South Oxfordshire District Council,District councils,South East,Non-metropolitan district
+SPE,Spelthorne Borough Council,District councils,South East,Non-metropolitan district
+SRI,South Ribble Borough Council,District councils,North West,Non-metropolitan district
+SRY,Surrey County Council,County councils,South East,County
+SSO,South Somerset District Council,District councils,South West,Non-metropolitan district
+SST,South Staffordshire Council,District councils,West Midlands,Non-metropolitan district
+STA,Stafford Borough Council,District councils,West Midlands,Non-metropolitan district
+STE,Stoke-on-Trent City Council,Single tier,West Midlands,Unitary authority
+STF,Staffordshire Moorlands District Council,District councils,West Midlands,Non-metropolitan district
+STG,Stirling Council,Single tier,Scotland,Scottish unitary authority
+STH,Southampton City Council,Single tier,South East,Unitary authority
+STN,London Borough of Sutton,Single tier,London,London borough
+STO,Stroud District Council,District councils,South West,Non-metropolitan district
+STR,Stratford-on-Avon District Council,District councils,West Midlands,Non-metropolitan district
+STS,Staffordshire County Council,County councils,West Midlands,County
+STT,Stockton-on-Tees Borough Council,Single tier,North East,Unitary authority
+STV,Stevenage Borough Council,District councils,East of England,Non-metropolitan district
+STY,South Tyneside Council,Single tier,North East,Metropolitan district
+SUR,Surrey Heath Borough Council,District councils,South East,Non-metropolitan district
+SWA,City and County of Swansea Council,Single tier,Wales,Welsh unitary authority
+SWD,Swindon Borough Council,Single tier,South West,Unitary authority
+SWK,London Borough of Southwark,Single tier,London,London borough
+SWL,Swale Borough Council,District councils,South East,Non-metropolitan district
+SWT,Somerset West and Taunton Council,District councils,South West,Non-metropolitan district
+TAM,Tameside Metropolitan Borough Council,Single tier,North West,Metropolitan district
+TAN,Tandridge District Council,District councils,South East,Non-metropolitan district
+TAW,Tamworth Borough Council,District councils,West Midlands,Non-metropolitan district
+TEI,Teignbridge District Council,District councils,South West,Non-metropolitan district
+TEN,Tendring District Council,District councils,East of England,Non-metropolitan district
+TES,Test Valley Borough Council,District councils,South East,Non-metropolitan district
+TEW,Tewkesbury Borough Council,District councils,South West,Non-metropolitan district
+TFW,Telford & Wrekin Council,Single tier,West Midlands,Unitary authority
+THA,Thanet District Council,District councils,South East,Non-metropolitan district
+THE,Three Rivers District Council,District councils,East of England,Non-metropolitan district
+THR,Thurrock Council,Single tier,East of England,Unitary authority
+TOB,Torbay Council,Single tier,South West,Unitary authority
+TOF,Torfaen County Borough Council,Single tier,Wales,Welsh unitary authority
+TON,Tonbridge and Malling Borough Council,District councils,South East,Non-metropolitan district
+TOR,Torridge District Council,District councils,South West,Non-metropolitan district
+TRF,Trafford Metropolitan Borough Council,Single tier,North West,Metropolitan district
+TUN,Tunbridge Wells Borough Council,District councils,South East,Non-metropolitan district
+TVCA,Tees Valley Combined Authority,Combined/strategic authorities,North East,Combined authority
+TWH,London Borough of Tower Hamlets,Single tier,London,London borough
+UTT,Uttlesford District Council,District councils,East of England,Non-metropolitan district
+VAL,Vale of White Horse District Council,District councils,South East,Non-metropolitan district
+VGL,Vale of Glamorgan Council,Single tier,Wales,Welsh unitary authority
+WAE,Waverley Borough Council,District councils,South East,Non-metropolitan district
+WAR,Warwickshire County Council,County councils,West Midlands,County
+WAT,Watford Borough Council,District councils,East of England,Non-metropolitan district
+WAW,Warwick District Council,District councils,West Midlands,Non-metropolitan district
+WBK,West Berkshire Council,Single tier,South East,Unitary authority
+WDE,West Devon Borough Council,District councils,South West,Non-metropolitan district
+WDU,West Dunbartonshire Council,Single tier,Scotland,Scottish unitary authority
+WEA,Wealden District Council,District councils,South East,Non-metropolitan district
+WECA,West of England Combined Authority,Combined/strategic authorities,South West,Combined authority
+WEW,Welwyn Hatfield Borough Council,District councils,East of England,Non-metropolitan district
+WFT,London Borough of Waltham Forest,Single tier,London,London borough
+WGN,Wigan Metropolitan Borough Council,Single tier,North West,Metropolitan district
+WIL,Wiltshire Council,Single tier,South West,Unitary authority
+WIN,Winchester City Council,District councils,South East,Non-metropolitan district
+WKF,Wakefield Metropolitan District Council,Single tier,Yorkshire and The Humber,Metropolitan district
+WLA,West Lancashire Borough Council,District councils,North West,Non-metropolitan district
+WLI,West Lindsey District Council,District councils,East Midlands,Non-metropolitan district
+WLL,Walsall Metropolitan Borough Council,Single tier,West Midlands,Metropolitan district
+WLN,West Lothian Council,Single tier,Scotland,Scottish unitary authority
+WLV,City of Wolverhampton Council,Single tier,West Midlands,Metropolitan district
+WMCA,West Midlands Combined Authority,Combined/strategic authorities,West Midlands,Combined authority
+WND,London Borough of Wandsworth,Single tier,London,London borough
+WNM,Royal Borough of Windsor and Maidenhead,Single tier,South East,Unitary authority
+WNT,West Northamptonshire Council,Single tier,East Midlands,Unitary authority
+WOC,Worcester City Council,District councils,West Midlands,Non-metropolitan district
+WOI,Woking Borough Council,District councils,South East,Non-metropolitan district
+WOK,Wokingham Borough Council,Single tier,South East,Unitary authority
+WOR,Worcestershire County Council,County councils,West Midlands,County
+WOT,Worthing Borough Council,District councils,South East,Non-metropolitan district
+WOX,West Oxfordshire District Council,District councils,South East,Non-metropolitan district
+WRL,Wirral Borough Council,Single tier,North West,Metropolitan district
+WRT,Warrington Borough Council,Single tier,North West,Unitary authority
+WRX,Wrexham County Borough Council,Single tier,Wales,Welsh unitary authority
+WSK,West Suffolk Council,District councils,East of England,Non-metropolitan district
+WSM,City of Westminster,Single tier,London,London borough
+WSX,West Sussex County Council,County councils,South East,County
+WYC,Wychavon District Council,District councils,West Midlands,Non-metropolitan district
+WYCA,West Yorkshire Combined Authority,Combined/strategic authorities,Yorkshire and The Humber,Combined authority
+WYE,Wyre Forest District Council,District councils,West Midlands,Non-metropolitan district
+WYR,Wyre Borough Council,District councils,North West,Non-metropolitan district
+YOR,City of York Council,Single tier,Yorkshire and The Humber,Unitary authority
+ZET,Shetland Islands Council,Single tier,Scotland,Scottish unitary authority

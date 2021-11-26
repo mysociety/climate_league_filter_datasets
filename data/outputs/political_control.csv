@@ -1,0 +1,388 @@
+local-authority-code,official-name,league-group,political_control
+ABD,Aberdeenshire Council,Single tier,Coalition/Minority
+ABE,Aberdeen City Council,Single tier,Coalition/Minority
+ADU,Adur District Council,District councils,Conservative
+AGB,Argyll and Bute Council,Single tier,Coalition/Minority
+AGY,Isle of Anglesey County Council,Single tier,Coalition/Minority
+ALL,Allerdale Borough Council,District councils,Coalition/Minority
+AMB,Amber Valley Borough Council,District councils,Conservative
+ANS,Angus Council,Single tier,Coalition/Minority
+ARU,Arun District Council,District councils,Coalition/Minority
+ASF,Ashford Borough Council,District councils,Conservative
+ASH,Ashfield District Council,District councils,Independent
+BAB,Babergh District Council,District councils,Coalition/Minority
+BAE,Bassetlaw District Council,District councils,Labour
+BAI,Basildon Borough Council,District councils,Conservative
+BAN,Basingstoke and Deane Borough Council,District councils,Conservative
+BAR,Barrow-in-Furness Borough Council,District councils,Labour
+BAS,Bath and North East Somerset Council,Single tier,Liberal Democrat
+BBD,Blackburn with Darwen Borough Council,Single tier,Labour
+BDF,Bedford Borough Council,Single tier,Coalition/Minority
+BDG,London Borough of Barking and Dagenham,Single tier,Labour
+BEN,London Borough of Brent,Single tier,Labour
+BEX,London Borough of Bexley,Single tier,Conservative
+BGE,Bridgend County Borough Council,Single tier,Coalition/Minority
+BGW,Blaenau Gwent County Borough Council,Single tier,Independent
+BIR,Birmingham City Council,Single tier,Labour
+BLA,Blaby District Council,District councils,Conservative
+BNE,London Borough of Barnet,Single tier,Conservative
+BNH,Brighton and Hove City Council,Single tier,Coalition/Minority
+BNS,Barnsley Metropolitan Borough Council,Single tier,Labour
+BOL,Bolton Metropolitan Borough Council,Single tier,Coalition/Minority
+BOS,Bolsover District Council,District councils,Coalition/Minority
+BOT,Boston Borough Council,District councils,Coalition/Minority
+BPC,"Bournemouth, Christchurch and Poole Council",Single tier,Conservative
+BPL,Blackpool Borough Council,Single tier,Coalition/Minority
+BRA,Braintree District Council,District councils,Conservative
+BRC,Bracknell Forest Council,Single tier,Conservative
+BRD,City of Bradford Metropolitan District Council,Single tier,Labour
+BRE,Breckland District Council,District councils,Conservative
+BRM,Bromsgrove District Council,District councils,Conservative
+BRO,Broadland District Council,District councils,Conservative
+BRT,Broxtowe Borough Council,District councils,Coalition/Minority
+BRW,Brentwood Borough Council,District councils,Conservative
+BRX,Broxbourne Borough Council,District councils,Conservative
+BRY,London Borough of Bromley,Single tier,Conservative
+BST,Bristol City Council,Single tier,Coalition/Minority
+BUC,Buckinghamshire Council,Single tier,Conservative
+BUN,Burnley Borough Council,District councils,Coalition/Minority
+BUR,Bury Metropolitan Borough Council,Single tier,Labour
+CAB,Cambridge City Council,District councils,Labour
+CAM,Cambridgeshire County Council,County councils,Coalition/Minority
+CAN,Cannock Chase District Council,District councils,Conservative
+CAR,Carlisle City Council,District councils,Conservative
+CAS,Castle Point Borough Council,District councils,Conservative
+CAT,Canterbury City Council,District councils,Conservative
+CAY,Caerphilly County Borough Council,Single tier,Labour
+CBF,Central Bedfordshire Council,Single tier,Conservative
+CGN,Ceredigion County Council,Single tier,Coalition/Minority
+CHA,Charnwood Borough Council,District councils,Conservative
+CHE,Cheshire East Council,Single tier,Coalition/Minority
+CHI,Chichester District Council,District councils,Coalition/Minority
+CHL,Chelmsford City Council,District councils,Liberal Democrat
+CHO,Chorley Borough Council,District councils,Labour
+CHR,Cherwell District Council,District councils,Conservative
+CHS,Chesterfield Borough Council,District councils,Labour
+CHT,Cheltenham Borough Council,District councils,Liberal Democrat
+CHW,Cheshire West and Chester Council,Single tier,Coalition/Minority
+CLD,Calderdale Metropolitan Borough Council,Single tier,Labour
+CLK,Clackmannanshire Council,Single tier,Coalition/Minority
+CMA,Cumbria County Council,County councils,Coalition/Minority
+CMD,London Borough of Camden,Single tier,Labour
+CMN,Carmarthenshire County Council,Single tier,Coalition/Minority
+COL,Colchester Borough Council,District councils,Coalition/Minority
+CON,Cornwall Council,Single tier,Conservative
+COP,Copeland Borough Council,District councils,Labour
+COT,Cotswold District Council,District councils,Liberal Democrat
+COV,Coventry City Council,Single tier,Labour
+CRA,Craven District Council,District councils,Coalition/Minority
+CRF,City of Cardiff Council,Single tier,Labour
+CRW,Crawley Borough Council,District councils,Coalition/Minority
+CRY,London Borough of Croydon,Single tier,Labour
+CWY,Conwy County Borough Council,Single tier,Coalition/Minority
+DAC,Dacorum Borough Council,District councils,Conservative
+DAL,Darlington Borough Council,Single tier,Coalition/Minority
+DAR,Dartford Borough Council,District councils,Conservative
+DBY,Derbyshire County Council,County councils,Conservative
+DEB,Derbyshire Dales District Council,District councils,Conservative
+DEN,Denbighshire County Council,Single tier,Coalition/Minority
+DER,Derby City Council,Single tier,Coalition/Minority
+DEV,Devon County Council,County councils,Conservative
+DGY,Dumfries and Galloway Council,Single tier,Coalition/Minority
+DNC,Doncaster Metropolitan Borough Council,Single tier,Labour
+DND,Dundee City Council,Single tier,Coalition/Minority
+DOV,Dover District Council,District councils,Conservative
+DST,Dorset Council,Single tier,Conservative
+DUD,Dudley Metropolitan Borough Council,Single tier,Conservative
+DUR,Durham County Council,Single tier,Coalition/Minority
+EAL,London Borough of Ealing,Single tier,Labour
+EAS,Eastbourne Borough Council,District councils,Liberal Democrat
+EAT,Eastleigh Borough Council,District councils,Liberal Democrat
+EAY,East Ayrshire Council,Single tier,Coalition/Minority
+ECA,East Cambridgeshire District Council,District councils,Conservative
+EDE,East Devon District Council,District councils,Coalition/Minority
+EDH,City of Edinburgh Council,Single tier,Coalition/Minority
+EDN,Eden District Council,District councils,Coalition/Minority
+EDU,East Dunbartonshire Council,Single tier,Coalition/Minority
+EHA,East Hampshire District Council,District councils,Conservative
+EHE,East Hertfordshire District Council,District councils,Conservative
+ELI,East Lindsey District Council,District councils,Conservative
+ELM,Elmbridge Borough Council,District councils,Coalition/Minority
+ELN,East Lothian Council,Single tier,Coalition/Minority
+ELS,Comhairle nan Eilean Siar,Single tier,Independent
+ENF,London Borough of Enfield,Single tier,Labour
+EPP,Epping Forest District Council,District councils,Conservative
+EPS,Epsom and Ewell Borough Council,District councils,Independent
+ERE,Erewash Borough Council,District councils,Conservative
+ERW,East Renfrewshire Council,Single tier,Coalition/Minority
+ERY,East Riding of Yorkshire Council,Single tier,Conservative
+ESK,East Suffolk Council,District councils,Conservative
+ESS,Essex County Council,County councils,Conservative
+EST,East Staffordshire Borough Council,District councils,Conservative
+ESX,East Sussex County Council,County councils,Conservative
+EXE,Exeter City Council,District councils,Labour
+FAL,Falkirk Council,Single tier,Coalition/Minority
+FAR,Fareham Borough Council,District councils,Conservative
+FEN,Fenland District Council,District councils,Conservative
+FIF,Fife Council,Single tier,Coalition/Minority
+FLN,Flintshire County Council,Single tier,Coalition/Minority
+FOE,Forest of Dean District Council,District councils,Coalition/Minority
+FYL,Fylde Borough Council,District councils,Conservative
+GAT,Gateshead Metropolitan Borough Council,Single tier,Labour
+GED,Gedling Borough Council,District councils,Labour
+GLG,Glasgow City Council,Single tier,Coalition/Minority
+GLO,Gloucester City Council,District councils,Conservative
+GLS,Gloucestershire County Council,County councils,Conservative
+GOS,Gosport Borough Council,District councils,Conservative
+GRA,Gravesham Borough Council,District councils,Labour
+GRE,Royal Borough of Greenwich,Single tier,Labour
+GRT,Guildford Borough Council,District councils,Coalition/Minority
+GRY,Great Yarmouth Borough Council,District councils,Conservative
+GWN,Gwynedd Council,Single tier,Plaid Cymru
+HAA,Havant Borough Council,District councils,Conservative
+HAE,Hambleton District Council,District councils,Conservative
+HAG,Harrogate Borough Council,District councils,Conservative
+HAL,Halton Borough Council,Single tier,Labour
+HAM,Hampshire County Council,County councils,Conservative
+HAO,Harborough District Council,District councils,Conservative
+HAR,Harlow District Council,District councils,Conservative
+HAS,Hastings Borough Council,District councils,Labour
+HAT,Hart District Council,District councils,Coalition/Minority
+HAV,London Borough of Havering,Single tier,Coalition/Minority
+HCK,London Borough of Hackney,Single tier,Labour
+HEF,Herefordshire Council,Single tier,Coalition/Minority
+HER,Hertsmere Borough Council,District councils,Conservative
+HIG,High Peak Borough Council,District councils,Labour
+HIL,London Borough of Hillingdon,Single tier,Conservative
+HIN,Hinckley and Bosworth Borough Council,District councils,Liberal Democrat
+HLD,The Highland Council,Single tier,Coalition/Minority
+HMF,London Borough of Hammersmith & Fulham,Single tier,Labour
+HNS,London Borough of Hounslow,Single tier,Labour
+HOR,Horsham District Council,District councils,Conservative
+HPL,Hartlepool Borough Council,Single tier,Coalition/Minority
+HRT,Hertfordshire County Council,County councils,Conservative
+HRW,London Borough of Harrow,Single tier,Labour
+HRY,London Borough of Haringey,Single tier,Labour
+HUN,Huntingdonshire District Council,District councils,Conservative
+HYN,Hyndburn Borough Council,District councils,Labour
+IOS,Council of the Isles of Scilly,Single tier,Independent
+IOW,Isle of Wight Council,Single tier,Coalition/Minority
+IPS,Ipswich Borough Council,District councils,Labour
+ISL,London Borough of Islington,Single tier,Labour
+IVC,Inverclyde Council,Single tier,Coalition/Minority
+KEC,Royal Borough of Kensington and Chelsea,Single tier,Conservative
+KEN,Kent County Council,County councils,Conservative
+KHL,Hull City Council,Single tier,Labour
+KIN,Borough Council of Kings Lynn and West Norfolk,District councils,Conservative
+KIR,Kirklees Council,Single tier,Coalition/Minority
+KTT,Royal Borough of Kingston upon Thames,Single tier,Liberal Democrat
+KWL,Knowsley Metropolitan Borough Council,Single tier,Labour
+LAC,Lancaster City Council,District councils,Coalition/Minority
+LAN,Lancashire County Council,County councils,Conservative
+LBH,London Borough of Lambeth,Single tier,Labour
+LCE,Leicester City Council,Single tier,Labour
+LDS,Leeds City Council,Single tier,Labour
+LEC,Leicestershire County Council,County councils,Conservative
+LEE,Lewes District Council,District councils,Coalition/Minority
+LEW,London Borough of Lewisham,Single tier,Labour
+LIC,City of Lincoln Council,District councils,Labour
+LIF,Lichfield District Council,District councils,Conservative
+LIN,Lincolnshire County Council,County councils,Conservative
+LIV,Liverpool City Council,Single tier,Labour
+LND,City of London Corporation,Single tier,Independent
+LUT,Luton Borough Council,Single tier,Labour
+MAI,Maidstone Borough Council,District councils,Conservative
+MAL,Maldon District Council,District councils,Independent
+MAN,Manchester City Council,Single tier,Labour
+MAS,Mansfield District Council,District councils,Coalition/Minority
+MAV,Malvern Hills District Council,District councils,Coalition/Minority
+MDB,Middlesbrough Borough Council,Single tier,Coalition/Minority
+MDE,Mid Devon District Council,District councils,Coalition/Minority
+MDW,Medway Council,Single tier,Conservative
+MEL,Melton Borough Council,District councils,Conservative
+MEN,Mendip District Council,District councils,Liberal Democrat
+MIK,Milton Keynes Council,Single tier,Coalition/Minority
+MLN,Midlothian Council,Single tier,Coalition/Minority
+MOL,Mole Valley District Council,District councils,Liberal Democrat
+MON,Monmouthshire County Council,Single tier,Conservative
+MRT,London Borough of Merton,Single tier,Labour
+MRY,The Moray Council,Single tier,Coalition/Minority
+MSS,Mid Sussex District Council,District councils,Conservative
+MSU,Mid Suffolk District Council,District councils,Coalition/Minority
+MTY,Merthyr Tydfil County Borough Council,Single tier,Independent
+NAY,North Ayrshire Council,Single tier,Coalition/Minority
+NBL,Northumberland County Council,Single tier,Coalition/Minority
+NDE,North Devon District Council,District councils,Liberal Democrat
+NEA,Newark and Sherwood District Council,District councils,Conservative
+NEC,Newcastle-under-Lyme Borough Council,District councils,Conservative
+NED,North East Derbyshire District Council,District councils,Conservative
+NEL,North East Lincolnshire Council,Single tier,Conservative
+NET,Newcastle City Council,Single tier,Labour
+NEW,New Forest District Council,District councils,Conservative
+NFK,Norfolk County Council,County councils,Conservative
+NGM,Nottingham City Council,Single tier,Labour
+NHE,North Hertfordshire District Council,District councils,Coalition/Minority
+NKE,North Kesteven District Council,District councils,Coalition/Minority
+NLK,North Lanarkshire Council,Single tier,Coalition/Minority
+NLN,North Lincolnshire Council,Single tier,Conservative
+NNO,North Norfolk District Council,District councils,Liberal Democrat
+NNT,North Northamptonshire Council,Single tier,Conservative
+NOW,Norwich City Council,District councils,Labour
+NSM,North Somerset  Council,Single tier,Coalition/Minority
+NTL,Neath Port Talbot County Borough Council,Single tier,Labour
+NTT,Nottinghamshire County Council,County councils,Conservative
+NTY,North Tyneside Council,Single tier,Labour
+NUN,Nuneaton and Bedworth Borough Council,District councils,Conservative
+NWA,North Warwickshire Borough Council,District councils,Conservative
+NWL,North West Leicestershire District Council,District councils,Conservative
+NWM,London Borough of Newham,Single tier,Labour
+NWP,Newport City Council,Single tier,Labour
+NYK,North Yorkshire County Council,County councils,Conservative
+OAD,Oadby and Wigston Borough Council,District councils,Liberal Democrat
+OLD,Oldham Metropolitan Borough Council,Single tier,Labour
+ORK,Orkney Islands Council,Single tier,Independent
+OXF,Oxfordshire County Council,County councils,Coalition/Minority
+OXO,Oxford City Council,District councils,Labour
+PEM,Pembrokeshire County Council,Single tier,Coalition/Minority
+PEN,Pendle Borough Council,District councils,Conservative
+PKN,Perth and Kinross Council,Single tier,Coalition/Minority
+PLY,Plymouth City Council,Single tier,Coalition/Minority
+POR,Portsmouth City Council,Single tier,Coalition/Minority
+POW,Powys County Council,Single tier,Coalition/Minority
+PRE,Preston City Council,District councils,Labour
+PTE,Peterborough City Council,Single tier,Coalition/Minority
+RCC,Redcar and Cleveland Borough Council,Single tier,Coalition/Minority
+RCH,Rochdale Metropolitan Borough Council,Single tier,Labour
+RCT,Rhondda Cynon Taf County Borough Council,Single tier,Labour
+RDB,London Borough of Redbridge,Single tier,Labour
+RDG,Reading Borough Council,Single tier,Labour
+RED,Redditch Borough Council,District councils,Conservative
+REI,Reigate and Banstead Borough Council,District councils,Conservative
+RFW,Renfrewshire Council,Single tier,Coalition/Minority
+RIB,Ribble Valley Borough Council,District councils,Conservative
+RIC,London Borough of Richmond upon Thames,Single tier,Liberal Democrat
+RIH,Richmondshire District Council,District councils,Coalition/Minority
+ROC,Rochford District Council,District councils,Conservative
+ROH,Rother District Council,District councils,Coalition/Minority
+ROS,Rossendale Borough Council,District councils,Coalition/Minority
+ROT,Rotherham Metropolitan Borough Council,Single tier,Labour
+RUG,Rugby Borough Council,District councils,Conservative
+RUH,Rushmoor Borough Council,District councils,Conservative
+RUN,Runnymede Borough Council,District councils,Conservative
+RUS,Rushcliffe Borough Council,District councils,Conservative
+RUT,Rutland County Council,Single tier,Conservative
+RYE,Ryedale District Council,District councils,Coalition/Minority
+SAL,St Albans City and District Council,District councils,Liberal Democrat
+SAW,Sandwell Metropolitan Borough Council,Single tier,Labour
+SAY,South Ayrshire Council,Single tier,Coalition/Minority
+SCA,South Cambridgeshire District Council,District councils,Liberal Democrat
+SCB,Scottish Borders Council,Single tier,Coalition/Minority
+SCE,Scarborough Borough Council,District councils,Coalition/Minority
+SDE,South Derbyshire District Council,District councils,Coalition/Minority
+SEG,Sedgemoor District Council,District councils,Conservative
+SEL,Selby District Council,District councils,Conservative
+SEV,Sevenoaks District Council,District councils,Conservative
+SFK,Suffolk County Council,County councils,Conservative
+SFT,Sefton Metropolitan Borough Council,Single tier,Labour
+SGC,South Gloucestershire Council,Single tier,Conservative
+SHA,South Hams District Council,District councils,Conservative
+SHE,Folkestone and Hythe District Council,District councils,Coalition/Minority
+SHF,Sheffield City Council,Single tier,Coalition/Minority
+SHN,St Helens Council,Single tier,Labour
+SHO,South Holland District Council,District councils,Conservative
+SHR,Shropshire Council,Single tier,Conservative
+SKE,South Kesteven District Council,District councils,Conservative
+SKP,Stockport Metropolitan Borough Council,Single tier,Coalition/Minority
+SLA,South Lakeland District Council,District councils,Liberal Democrat
+SLF,Salford City Council,Single tier,Labour
+SLG,Slough Borough Council,Single tier,Labour
+SLK,South Lanarkshire Council,Single tier,Coalition/Minority
+SND,Sunderland City Council,Single tier,Labour
+SNO,South Norfolk District Council,District councils,Conservative
+SOL,Solihull Metropolitan Borough Council,Single tier,Conservative
+SOM,Somerset County Council,County councils,Conservative
+SOS,Southend-on-Sea Borough Council,Single tier,Coalition/Minority
+SOX,South Oxfordshire District Council,District councils,Coalition/Minority
+SPE,Spelthorne Borough Council,District councils,Coalition/Minority
+SRI,South Ribble Borough Council,District councils,Coalition/Minority
+SRY,Surrey County Council,County councils,Conservative
+SSO,South Somerset District Council,District councils,Liberal Democrat
+SST,South Staffordshire Council,District councils,Conservative
+STA,Stafford Borough Council,District councils,Conservative
+STE,Stoke-on-Trent City Council,Single tier,Coalition/Minority
+STF,Staffordshire Moorlands District Council,District councils,Coalition/Minority
+STG,Stirling Council,Single tier,Coalition/Minority
+STH,Southampton City Council,Single tier,Conservative
+STN,London Borough of Sutton,Single tier,Liberal Democrat
+STO,Stroud District Council,District councils,Coalition/Minority
+STR,Stratford-on-Avon District Council,District councils,Conservative
+STS,Staffordshire County Council,County councils,Conservative
+STT,Stockton-on-Tees Borough Council,Single tier,Coalition/Minority
+STV,Stevenage Borough Council,District councils,Labour
+STY,South Tyneside Council,Single tier,Labour
+SUR,Surrey Heath Borough Council,District councils,Conservative
+SWA,City and County of Swansea Council,Single tier,Labour
+SWD,Swindon Borough Council,Single tier,Conservative
+SWK,London Borough of Southwark,Single tier,Labour
+SWL,Swale Borough Council,District councils,Coalition/Minority
+SWT,Somerset West and Taunton Council,District councils,Liberal Democrat
+TAM,Tameside Metropolitan Borough Council,Single tier,Labour
+TAN,Tandridge District Council,District councils,Coalition/Minority
+TAW,Tamworth Borough Council,District councils,Conservative
+TEI,Teignbridge District Council,District councils,Liberal Democrat
+TEN,Tendring District Council,District councils,Coalition/Minority
+TES,Test Valley Borough Council,District councils,Conservative
+TEW,Tewkesbury Borough Council,District councils,Conservative
+TFW,Telford & Wrekin Council,Single tier,Labour
+THA,Thanet District Council,District councils,Coalition/Minority
+THE,Three Rivers District Council,District councils,Liberal Democrat
+THR,Thurrock Council,Single tier,Conservative
+TOB,Torbay Council,Single tier,Coalition/Minority
+TOF,Torfaen County Borough Council,Single tier,Labour
+TON,Tonbridge and Malling Borough Council,District councils,Conservative
+TOR,Torridge District Council,District councils,Coalition/Minority
+TRF,Trafford Metropolitan Borough Council,Single tier,Labour
+TUN,Tunbridge Wells Borough Council,District councils,Conservative
+TWH,London Borough of Tower Hamlets,Single tier,Labour
+UTT,Uttlesford District Council,District councils,Independent
+VAL,Vale of White Horse District Council,District councils,Liberal Democrat
+VGL,Vale of Glamorgan Council,Single tier,Coalition/Minority
+WAE,Waverley Borough Council,District councils,Coalition/Minority
+WAR,Warwickshire County Council,County councils,Conservative
+WAT,Watford Borough Council,District councils,Liberal Democrat
+WAW,Warwick District Council,District councils,Coalition/Minority
+WBK,West Berkshire Council,Single tier,Conservative
+WDE,West Devon Borough Council,District councils,Coalition/Minority
+WDU,West Dunbartonshire Council,Single tier,Coalition/Minority
+WEA,Wealden District Council,District councils,Conservative
+WEW,Welwyn Hatfield Borough Council,District councils,Conservative
+WFT,London Borough of Waltham Forest,Single tier,Labour
+WGN,Wigan Metropolitan Borough Council,Single tier,Labour
+WIL,Wiltshire Council,Single tier,Conservative
+WIN,Winchester City Council,District councils,Liberal Democrat
+WKF,Wakefield Metropolitan District Council,Single tier,Labour
+WLA,West Lancashire Borough Council,District councils,Coalition/Minority
+WLI,West Lindsey District Council,District councils,Coalition/Minority
+WLL,Walsall Metropolitan Borough Council,Single tier,Conservative
+WLN,West Lothian Council,Single tier,Coalition/Minority
+WLV,City of Wolverhampton Council,Single tier,Labour
+WND,London Borough of Wandsworth,Single tier,Conservative
+WNM,Royal Borough of Windsor and Maidenhead,Single tier,Conservative
+WNT,West Northamptonshire Council,Single tier,Conservative
+WOC,Worcester City Council,District councils,Conservative
+WOI,Woking Borough Council,District councils,Coalition/Minority
+WOK,Wokingham Borough Council,Single tier,Conservative
+WOR,Worcestershire County Council,County councils,Conservative
+WOT,Worthing Borough Council,District councils,Conservative
+WOX,West Oxfordshire District Council,District councils,Conservative
+WRL,Wirral Borough Council,Single tier,Coalition/Minority
+WRT,Warrington Borough Council,Single tier,Labour
+WRX,Wrexham County Borough Council,Single tier,Coalition/Minority
+WSK,West Suffolk Council,District councils,Conservative
+WSM,City of Westminster,Single tier,Conservative
+WSX,West Sussex County Council,County councils,Conservative
+WYC,Wychavon District Council,District councils,Conservative
+WYE,Wyre Forest District Council,District councils,Coalition/Minority
+WYR,Wyre Borough Council,District councils,Conservative
+YOR,City of York Council,Single tier,Coalition/Minority
+ZET,Shetland Islands Council,Single tier,Independent
