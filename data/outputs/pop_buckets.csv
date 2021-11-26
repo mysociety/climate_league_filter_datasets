@@ -1,15 +1,15 @@
-local-authority-code,official-name,league-group,pop_2020,pop_bucket
+local-authority-code,official-name,league-group,pop-2020,pop_bucket
 ABC,"Armagh City, Banbridge and Craigavon Borough Council",Northern Ireland,217232.0,NA
-ABD,Aberdeenshire Council,Single tier,260780.0,220k - 410k
-ABE,Aberdeen City Council,Single tier,229060.0,220k - 410k
+ABD,Aberdeenshire Council,Single tier,260780.0,210k - 290k
+ABE,Aberdeen City Council,Single tier,229060.0,210k - 290k
 ADU,Adur District Council,District councils,64187.0,50k - 80k
-AGB,Argyll and Bute Council,Single tier,85430.0,0k - 110k
-AGY,Isle of Anglesey County Council,Single tier,70440.0,0k - 110k
+AGB,Argyll and Bute Council,Single tier,85430.0,0k - 140k
+AGY,Isle of Anglesey County Council,Single tier,70440.0,0k - 140k
 ALL,Allerdale Borough Council,District councils,97831.0,90k - 100k
 AMB,Amber Valley Borough Council,District councils,128829.0,120k - 130k
 AND,Ards and North Down Borough Council,Northern Ireland,162056.0,NA
 ANN,Antrim and Newtownabbey Borough Council,Northern Ireland,143756.0,NA
-ANS,Angus Council,Single tier,115820.0,120k - 150k
+ANS,Angus Council,Single tier,115820.0,0k - 140k
 ARU,Arun District Council,District councils,161123.0,140k - 160k
 ASF,Ashford Borough Council,District councils,131018.0,120k - 130k
 ASH,Ashfield District Council,District councils,128337.0,120k - 130k
@@ -18,282 +18,282 @@ BAE,Bassetlaw District Council,District councils,118280.0,110k - 120k
 BAI,Basildon Borough Council,District councils,187558.0,170k - 250k
 BAN,Basingstoke and Deane Borough Council,District councils,177760.0,170k - 250k
 BAR,Barrow-in-Furness Borough Council,District councils,66726.0,50k - 80k
-BAS,Bath and North East Somerset Council,Single tier,196357.0,150k - 200k
-BBD,Blackburn with Darwen Borough Council,Single tier,150030.0,120k - 150k
-BDF,Bedford Borough Council,Single tier,174687.0,150k - 200k
-BDG,London Borough of Barking and Dagenham,Single tier,214107.0,200k - 640k
-BEN,London Borough of Brent,Single tier,327753.0,220k - 410k
-BEX,London Borough of Bexley,Single tier,249301.0,220k - 410k
+BAS,Bath and North East Somerset Council,Single tier,196357.0,140k - 210k
+BBD,Blackburn with Darwen Borough Council,Single tier,150030.0,140k - 210k
+BDF,Bedford Borough Council,Single tier,174687.0,140k - 210k
+BDG,London Borough of Barking and Dagenham,Single tier,214107.0,210k - 290k
+BEN,London Borough of Brent,Single tier,327753.0,290k - 410k
+BEX,London Borough of Bexley,Single tier,249301.0,210k - 290k
 BFS,Belfast City Council,Northern Ireland,342560.0,NA
-BGE,Bridgend County Borough Council,Single tier,147539.0,120k - 150k
-BGW,Blaenau Gwent County Borough Council,Single tier,70020.0,0k - 110k
+BGE,Bridgend County Borough Council,Single tier,147539.0,140k - 210k
+BGW,Blaenau Gwent County Borough Council,Single tier,70020.0,0k - 140k
 BIR,Birmingham City Council,Single tier,1140525.0,800k - 1140k
 BLA,Blaby District Council,District councils,101950.0,90k - 100k
-BNE,London Borough of Barnet,Single tier,399007.0,220k - 410k
-BNH,Brighton and Hove City Council,Single tier,291738.0,220k - 410k
-BNS,Barnsley Metropolitan Borough Council,Single tier,248071.0,220k - 410k
-BOL,Bolton Metropolitan Borough Council,Single tier,288248.0,220k - 410k
+BNE,London Borough of Barnet,Single tier,399007.0,290k - 410k
+BNH,Brighton and Hove City Council,Single tier,291738.0,290k - 410k
+BNS,Barnsley Metropolitan Borough Council,Single tier,248071.0,210k - 290k
+BOL,Bolton Metropolitan Borough Council,Single tier,288248.0,290k - 410k
 BOS,Bolsover District Council,District councils,81305.0,80k - 90k
 BOT,Boston Borough Council,District councils,70837.0,50k - 80k
-BPC,"Bournemouth, Christchurch and Poole Council",Single tier,396989.0,220k - 410k
-BPL,Blackpool Borough Council,Single tier,138381.0,120k - 150k
+BPC,"Bournemouth, Christchurch and Poole Council",Single tier,396989.0,290k - 410k
+BPL,Blackpool Borough Council,Single tier,138381.0,0k - 140k
 BRA,Braintree District Council,District councils,153091.0,140k - 160k
-BRC,Bracknell Forest Council,Single tier,124165.0,120k - 150k
-BRD,City of Bradford Metropolitan District Council,Single tier,542128.0,200k - 640k
+BRC,Bracknell Forest Council,Single tier,124165.0,0k - 140k
+BRD,City of Bradford Metropolitan District Council,Single tier,542128.0,440k - 640k
 BRE,Breckland District Council,District councils,141255.0,140k - 160k
 BRM,Bromsgrove District Council,District councils,100569.0,90k - 100k
 BRO,Broadland District Council,District councils,131931.0,120k - 130k
 BRT,Broxtowe Borough Council,District councils,114627.0,110k - 120k
 BRW,Brentwood Borough Council,District councils,77242.0,50k - 80k
 BRX,Broxbourne Borough Council,District councils,97592.0,90k - 100k
-BRY,London Borough of Bromley,Single tier,332752.0,220k - 410k
-BST,Bristol City Council,Single tier,465866.0,200k - 640k
-BUC,Buckinghamshire Council,Single tier,547060.0,200k - 640k
+BRY,London Borough of Bromley,Single tier,332752.0,290k - 410k
+BST,Bristol City Council,Single tier,465866.0,440k - 640k
+BUC,Buckinghamshire Council,Single tier,547060.0,440k - 640k
 BUN,Burnley Borough Council,District councils,89344.0,80k - 90k
-BUR,Bury Metropolitan Borough Council,Single tier,190708.0,150k - 200k
+BUR,Bury Metropolitan Borough Council,Single tier,190708.0,140k - 210k
 CAB,Cambridge City Council,District councils,125063.0,120k - 130k
 CAM,Cambridgeshire County Council,County councils,657204.0,under 800k
 CAN,Cannock Chase District Council,District councils,101484.0,90k - 100k
 CAR,Carlisle City Council,District councils,108524.0,110k - 120k
 CAS,Castle Point Borough Council,District councils,90524.0,80k - 90k
 CAT,Canterbury City Council,District councils,166762.0,170k - 250k
-CAY,Caerphilly County Borough Council,Single tier,181731.0,150k - 200k
-CBF,Central Bedfordshire Council,Single tier,294096.0,220k - 410k
+CAY,Caerphilly County Borough Council,Single tier,181731.0,140k - 210k
+CBF,Central Bedfordshire Council,Single tier,294096.0,290k - 410k
 CCG,Causeway Coast and Glens Borough Council,Northern Ireland,144943.0,NA
-CGN,Ceredigion County Council,Single tier,72895.0,0k - 110k
+CGN,Ceredigion County Council,Single tier,72895.0,0k - 140k
 CHA,Charnwood Borough Council,District councils,188416.0,170k - 250k
-CHE,Cheshire East Council,Single tier,386667.0,220k - 410k
+CHE,Cheshire East Council,Single tier,386667.0,290k - 410k
 CHI,Chichester District Council,District councils,121508.0,120k - 130k
 CHL,Chelmsford City Council,District councils,179549.0,170k - 250k
 CHO,Chorley Borough Council,District councils,118870.0,120k - 130k
 CHR,Cherwell District Council,District councils,151846.0,140k - 160k
 CHS,Chesterfield Borough Council,District councils,104930.0,90k - 100k
 CHT,Cheltenham Borough Council,District councils,116043.0,110k - 120k
-CHW,Cheshire West and Chester Council,Single tier,343823.0,220k - 410k
-CLD,Calderdale Metropolitan Borough Council,Single tier,211439.0,200k - 640k
-CLK,Clackmannanshire Council,Single tier,51290.0,0k - 110k
+CHW,Cheshire West and Chester Council,Single tier,343823.0,290k - 410k
+CLD,Calderdale Metropolitan Borough Council,Single tier,211439.0,210k - 290k
+CLK,Clackmannanshire Council,Single tier,51290.0,0k - 140k
 CMA,Cumbria County Council,County councils,499781.0,under 800k
-CMD,London Borough of Camden,Single tier,279516.0,220k - 410k
-CMN,Carmarthenshire County Council,Single tier,190073.0,150k - 200k
+CMD,London Borough of Camden,Single tier,279516.0,210k - 290k
+CMN,Carmarthenshire County Council,Single tier,190073.0,140k - 210k
 COL,Colchester Borough Council,District councils,197200.0,170k - 250k
-CON,Cornwall Council,Single tier,573299.0,200k - 640k
+CON,Cornwall Council,Single tier,573299.0,440k - 640k
 COP,Copeland Borough Council,District councils,68041.0,50k - 80k
 COT,Cotswold District Council,District councils,90264.0,80k - 90k
-COV,Coventry City Council,Single tier,379387.0,220k - 410k
+COV,Coventry City Council,Single tier,379387.0,290k - 410k
 CPCA,Cambridgeshire and Peterborough Combined Authority,Combined/strategic authorities,,NA
 CRA,Craven District Council,District councils,57338.0,50k - 80k
-CRF,City of Cardiff Council,Single tier,369202.0,220k - 410k
+CRF,City of Cardiff Council,Single tier,369202.0,290k - 410k
 CRW,Crawley Borough Council,District councils,112474.0,110k - 120k
-CRY,London Borough of Croydon,Single tier,388563.0,220k - 410k
-CWY,Conwy County Borough Council,Single tier,118184.0,120k - 150k
+CRY,London Borough of Croydon,Single tier,388563.0,290k - 410k
+CWY,Conwy County Borough Council,Single tier,118184.0,0k - 140k
 DAC,Dacorum Borough Council,District councils,155457.0,140k - 160k
-DAL,Darlington Borough Council,Single tier,107402.0,0k - 110k
+DAL,Darlington Borough Council,Single tier,107402.0,0k - 140k
 DAR,Dartford Borough Council,District councils,114051.0,110k - 120k
 DBY,Derbyshire County Council,County councils,807183.0,800k - 1m
 DEB,Derbyshire Dales District Council,District councils,72422.0,50k - 80k
-DEN,Denbighshire County Council,Single tier,96664.0,0k - 110k
-DER,Derby City Council,Single tier,256814.0,220k - 410k
+DEN,Denbighshire County Council,Single tier,96664.0,0k - 140k
+DER,Derby City Council,Single tier,256814.0,210k - 290k
 DEV,Devon County Council,County councils,810716.0,800k - 1m
-DGY,Dumfries and Galloway Council,Single tier,148290.0,120k - 150k
-DNC,Doncaster Metropolitan Borough Council,Single tier,312785.0,220k - 410k
-DND,Dundee City Council,Single tier,148820.0,120k - 150k
+DGY,Dumfries and Galloway Council,Single tier,148290.0,140k - 210k
+DNC,Doncaster Metropolitan Borough Council,Single tier,312785.0,290k - 410k
+DND,Dundee City Council,Single tier,148820.0,140k - 210k
 DOV,Dover District Council,District councils,118514.0,110k - 120k
 DRS,Derry City and Strabane District Council,Northern Ireland,151109.0,NA
-DST,Dorset Council,Single tier,379791.0,220k - 410k
-DUD,Dudley Metropolitan Borough Council,Single tier,322363.0,220k - 410k
-DUR,Durham County Council,Single tier,533149.0,200k - 640k
-EAL,London Borough of Ealing,Single tier,340341.0,220k - 410k
+DST,Dorset Council,Single tier,379791.0,290k - 410k
+DUD,Dudley Metropolitan Borough Council,Single tier,322363.0,290k - 410k
+DUR,Durham County Council,Single tier,533149.0,440k - 640k
+EAL,London Borough of Ealing,Single tier,340341.0,290k - 410k
 EAS,Eastbourne Borough Council,District councils,103324.0,90k - 100k
 EAT,Eastleigh Borough Council,District councils,135520.0,140k - 160k
-EAY,East Ayrshire Council,Single tier,121600.0,120k - 150k
+EAY,East Ayrshire Council,Single tier,121600.0,0k - 140k
 ECA,East Cambridgeshire District Council,District councils,90172.0,80k - 90k
 EDE,East Devon District Council,District councils,148080.0,140k - 160k
-EDH,City of Edinburgh Council,Single tier,527620.0,200k - 640k
+EDH,City of Edinburgh Council,Single tier,527620.0,440k - 640k
 EDN,Eden District Council,District councils,53754.0,50k - 80k
-EDU,East Dunbartonshire Council,Single tier,108750.0,0k - 110k
+EDU,East Dunbartonshire Council,Single tier,108750.0,0k - 140k
 EHA,East Hampshire District Council,District councils,123838.0,120k - 130k
 EHE,East Hertfordshire District Council,District councils,151786.0,140k - 160k
 ELI,East Lindsey District Council,District councils,142030.0,140k - 160k
 ELM,Elmbridge Borough Council,District councils,137215.0,140k - 160k
-ELN,East Lothian Council,Single tier,107900.0,0k - 110k
-ELS,Comhairle nan Eilean Siar,Single tier,26500.0,0k - 110k
-ENF,London Borough of Enfield,Single tier,333587.0,220k - 410k
+ELN,East Lothian Council,Single tier,107900.0,0k - 140k
+ELS,Comhairle nan Eilean Siar,Single tier,26500.0,0k - 140k
+ENF,London Borough of Enfield,Single tier,333587.0,290k - 410k
 EPP,Epping Forest District Council,District councils,132175.0,120k - 130k
 EPS,Epsom and Ewell Borough Council,District councils,81003.0,80k - 90k
 ERE,Erewash Borough Council,District councils,115332.0,110k - 120k
-ERW,East Renfrewshire Council,Single tier,96060.0,0k - 110k
-ERY,East Riding of Yorkshire Council,Single tier,343201.0,220k - 410k
+ERW,East Renfrewshire Council,Single tier,96060.0,0k - 140k
+ERY,East Riding of Yorkshire Council,Single tier,343201.0,290k - 410k
 ESK,East Suffolk Council,District councils,250373.0,170k - 250k
 ESS,Essex County Council,County councils,1497759.0,1m +
 EST,East Staffordshire Borough Council,District councils,120923.0,120k - 130k
 ESX,East Sussex County Council,County councils,558852.0,under 800k
 EXE,Exeter City Council,District councils,133333.0,120k - 130k
-FAL,Falkirk Council,Single tier,160560.0,150k - 200k
+FAL,Falkirk Council,Single tier,160560.0,140k - 210k
 FAR,Fareham Borough Council,District councils,116338.0,110k - 120k
 FEN,Fenland District Council,District councils,102080.0,90k - 100k
-FIF,Fife Council,Single tier,374130.0,220k - 410k
-FLN,Flintshire County Council,Single tier,156847.0,150k - 200k
+FIF,Fife Council,Single tier,374130.0,290k - 410k
+FLN,Flintshire County Council,Single tier,156847.0,140k - 210k
 FMO,Fermanagh and Omagh District Council,Northern Ireland,117337.0,NA
 FOE,Forest of Dean District Council,District councils,87107.0,80k - 90k
 FYL,Fylde Borough Council,District councils,81211.0,80k - 90k
-GAT,Gateshead Metropolitan Borough Council,Single tier,201950.0,200k - 640k
+GAT,Gateshead Metropolitan Borough Council,Single tier,201950.0,140k - 210k
 GED,Gedling Borough Council,District councils,118239.0,110k - 120k
 GLA,Greater London Authority,Combined/strategic authorities,9002488.0,NA
-GLG,Glasgow City Council,Single tier,635640.0,200k - 640k
+GLG,Glasgow City Council,Single tier,635640.0,440k - 640k
 GLO,Gloucester City Council,District councils,129709.0,120k - 130k
 GLS,Gloucestershire County Council,County councils,640650.0,under 800k
 GMCA,Greater Manchester Combined Authority,Combined/strategic authorities,2848286.0,NA
 GOS,Gosport Borough Council,District councils,84679.0,80k - 90k
 GRA,Gravesham Borough Council,District councils,106890.0,110k - 120k
-GRE,Royal Borough of Greenwich,Single tier,289034.0,220k - 410k
+GRE,Royal Borough of Greenwich,Single tier,289034.0,290k - 410k
 GRT,Guildford Borough Council,District councils,150352.0,140k - 160k
 GRY,Great Yarmouth Borough Council,District councils,99198.0,90k - 100k
-GWN,Gwynedd Council,Single tier,125171.0,120k - 150k
+GWN,Gwynedd Council,Single tier,125171.0,0k - 140k
 HAA,Havant Borough Council,District councils,126339.0,120k - 130k
 HAE,Hambleton District Council,District councils,91932.0,80k - 90k
 HAG,Harrogate Borough Council,District councils,161545.0,140k - 160k
-HAL,Halton Borough Council,Single tier,129759.0,120k - 150k
+HAL,Halton Borough Council,Single tier,129759.0,0k - 140k
 HAM,Hampshire County Council,County councils,1389206.0,1m +
 HAO,Harborough District Council,District councils,95537.0,90k - 100k
 HAR,Harlow District Council,District councils,87280.0,80k - 90k
 HAS,Hastings Borough Council,District councils,92554.0,80k - 90k
 HAT,Hart District Council,District councils,97608.0,90k - 100k
-HAV,London Borough of Havering,Single tier,260651.0,220k - 410k
-HCK,London Borough of Hackney,Single tier,280941.0,220k - 410k
-HEF,Herefordshire Council,Single tier,193615.0,150k - 200k
+HAV,London Borough of Havering,Single tier,260651.0,210k - 290k
+HCK,London Borough of Hackney,Single tier,280941.0,210k - 290k
+HEF,Herefordshire Council,Single tier,193615.0,140k - 210k
 HER,Hertsmere Borough Council,District councils,105471.0,110k - 120k
 HIG,High Peak Borough Council,District councils,92633.0,80k - 90k
-HIL,London Borough of Hillingdon,Single tier,309014.0,220k - 410k
+HIL,London Borough of Hillingdon,Single tier,309014.0,290k - 410k
 HIN,Hinckley and Bosworth Borough Council,District councils,113666.0,110k - 120k
-HLD,The Highland Council,Single tier,235430.0,220k - 410k
-HMF,London Borough of Hammersmith & Fulham,Single tier,183544.0,150k - 200k
-HNS,London Borough of Hounslow,Single tier,271767.0,220k - 410k
+HLD,The Highland Council,Single tier,235430.0,210k - 290k
+HMF,London Borough of Hammersmith & Fulham,Single tier,183544.0,140k - 210k
+HNS,London Borough of Hounslow,Single tier,271767.0,210k - 290k
 HOR,Horsham District Council,District councils,145474.0,140k - 160k
-HPL,Hartlepool Borough Council,Single tier,93836.0,0k - 110k
+HPL,Hartlepool Borough Council,Single tier,93836.0,0k - 140k
 HRT,Hertfordshire County Council,County councils,1195672.0,1m +
-HRW,London Borough of Harrow,Single tier,252338.0,220k - 410k
-HRY,London Borough of Haringey,Single tier,266357.0,220k - 410k
+HRW,London Borough of Harrow,Single tier,252338.0,210k - 290k
+HRY,London Borough of Haringey,Single tier,266357.0,210k - 290k
 HUN,Huntingdonshire District Council,District councils,178985.0,170k - 250k
 HYN,Hyndburn Borough Council,District councils,81133.0,80k - 90k
-IOS,Council of the Isles of Scilly,Single tier,2226.0,0k - 110k
-IOW,Isle of Wight Council,Single tier,142296.0,120k - 150k
+IOS,Council of the Isles of Scilly,Single tier,2226.0,0k - 140k
+IOW,Isle of Wight Council,Single tier,142296.0,140k - 210k
 IPS,Ipswich Borough Council,District councils,135979.0,140k - 160k
-ISL,London Borough of Islington,Single tier,248115.0,220k - 410k
-IVC,Inverclyde Council,Single tier,77060.0,0k - 110k
-KEC,Royal Borough of Kensington and Chelsea,Single tier,156864.0,150k - 200k
+ISL,London Borough of Islington,Single tier,248115.0,210k - 290k
+IVC,Inverclyde Council,Single tier,77060.0,0k - 140k
+KEC,Royal Borough of Kensington and Chelsea,Single tier,156864.0,140k - 210k
 KEN,Kent County Council,County councils,1589057.0,1m +
-KHL,Hull City Council,Single tier,259126.0,220k - 410k
+KHL,Hull City Council,Single tier,259126.0,210k - 290k
 KIN,Borough Council of Kings Lynn and West Norfolk,District councils,151245.0,140k - 160k
-KIR,Kirklees Council,Single tier,441290.0,200k - 640k
-KTT,Royal Borough of Kingston upon Thames,Single tier,179142.0,150k - 200k
-KWL,Knowsley Metropolitan Borough Council,Single tier,152452.0,150k - 200k
+KIR,Kirklees Council,Single tier,441290.0,440k - 640k
+KTT,Royal Borough of Kingston upon Thames,Single tier,179142.0,140k - 210k
+KWL,Knowsley Metropolitan Borough Council,Single tier,152452.0,140k - 210k
 LAC,Lancaster City Council,District councils,148119.0,140k - 160k
 LAN,Lancashire County Council,County councils,1227076.0,1m +
 LBC,Lisburn and Castlereagh City Council,Northern Ireland,146452.0,NA
-LBH,London Borough of Lambeth,Single tier,321813.0,220k - 410k
-LCE,Leicester City Council,Single tier,354036.0,220k - 410k
+LBH,London Borough of Lambeth,Single tier,321813.0,290k - 410k
+LCE,Leicester City Council,Single tier,354036.0,290k - 410k
 LCR,Liverpool City Region,Combined/strategic authorities,1564015.0,NA
 LDS,Leeds City Council,Single tier,798786.0,800k - 1140k
 LEC,Leicestershire County Council,County councils,713085.0,under 800k
 LEE,Lewes District Council,District councils,103525.0,90k - 100k
-LEW,London Borough of Lewisham,Single tier,305309.0,220k - 410k
+LEW,London Borough of Lewisham,Single tier,305309.0,290k - 410k
 LIC,City of Lincoln Council,District councils,100049.0,90k - 100k
 LIF,Lichfield District Council,District councils,105637.0,110k - 120k
 LIN,Lincolnshire County Council,County councils,766333.0,under 800k
-LIV,Liverpool City Council,Single tier,500474.0,200k - 640k
-LND,City of London Corporation,Single tier,10938.0,0k - 110k
-LUT,Luton Borough Council,Single tier,213528.0,200k - 640k
+LIV,Liverpool City Council,Single tier,500474.0,440k - 640k
+LND,City of London Corporation,Single tier,10938.0,0k - 140k
+LUT,Luton Borough Council,Single tier,213528.0,210k - 290k
 MAI,Maidstone Borough Council,District councils,173132.0,170k - 250k
 MAL,Maldon District Council,District councils,65401.0,50k - 80k
-MAN,Manchester City Council,Single tier,555741.0,200k - 640k
+MAN,Manchester City Council,Single tier,555741.0,440k - 640k
 MAS,Mansfield District Council,District councils,109351.0,110k - 120k
 MAV,Malvern Hills District Council,District councils,79445.0,80k - 90k
-MDB,Middlesbrough Borough Council,Single tier,141285.0,120k - 150k
+MDB,Middlesbrough Borough Council,Single tier,141285.0,0k - 140k
 MDE,Mid Devon District Council,District councils,83290.0,80k - 90k
-MDW,Medway Council,Single tier,279142.0,220k - 410k
+MDW,Medway Council,Single tier,279142.0,210k - 290k
 MEA,Mid and East Antrim Borough Council,Northern Ireland,139443.0,NA
 MEL,Melton Borough Council,District councils,51394.0,50k - 80k
 MEN,Mendip District Council,District councils,116288.0,110k - 120k
-MIK,Milton Keynes Council,Single tier,270203.0,220k - 410k
-MLN,Midlothian Council,Single tier,93150.0,0k - 110k
+MIK,Milton Keynes Council,Single tier,270203.0,210k - 290k
+MLN,Midlothian Council,Single tier,93150.0,0k - 140k
 MOL,Mole Valley District Council,District councils,87547.0,80k - 90k
-MON,Monmouthshire County Council,Single tier,95164.0,0k - 110k
-MRT,London Borough of Merton,Single tier,206453.0,200k - 640k
-MRY,The Moray Council,Single tier,95710.0,0k - 110k
+MON,Monmouthshire County Council,Single tier,95164.0,0k - 140k
+MRT,London Borough of Merton,Single tier,206453.0,140k - 210k
+MRY,The Moray Council,Single tier,95710.0,0k - 140k
 MSS,Mid Sussex District Council,District councils,152142.0,140k - 160k
 MSU,Mid Suffolk District Council,District councils,104857.0,90k - 100k
-MTY,Merthyr Tydfil County Borough Council,Single tier,60424.0,0k - 110k
+MTY,Merthyr Tydfil County Borough Council,Single tier,60424.0,0k - 140k
 MUL,Mid Ulster District Council,Northern Ireland,148953.0,NA
-NAY,North Ayrshire Council,Single tier,134250.0,120k - 150k
-NBL,Northumberland County Council,Single tier,323820.0,220k - 410k
+NAY,North Ayrshire Council,Single tier,134250.0,0k - 140k
+NBL,Northumberland County Council,Single tier,323820.0,290k - 410k
 NDE,North Devon District Council,District councils,98170.0,90k - 100k
 NEA,Newark and Sherwood District Council,District councils,123127.0,120k - 130k
 NEC,Newcastle-under-Lyme Borough Council,District councils,129610.0,120k - 130k
 NECA,North East Combined Authority,Combined/strategic authorities,1164078.0,NA
 NED,North East Derbyshire District Council,District councils,102216.0,90k - 100k
-NEL,North East Lincolnshire Council,Single tier,159364.0,150k - 200k
-NET,Newcastle City Council,Single tier,306824.0,220k - 410k
+NEL,North East Lincolnshire Council,Single tier,159364.0,140k - 210k
+NET,Newcastle City Council,Single tier,306824.0,290k - 410k
 NEW,New Forest District Council,District councils,179649.0,170k - 250k
 NFK,Norfolk County Council,County councils,914039.0,800k - 1m
-NGM,Nottingham City Council,Single tier,337098.0,220k - 410k
+NGM,Nottingham City Council,Single tier,337098.0,290k - 410k
 NHE,North Hertfordshire District Council,District councils,133463.0,120k - 130k
 NKE,North Kesteven District Council,District councils,118149.0,110k - 120k
-NLK,North Lanarkshire Council,Single tier,341140.0,220k - 410k
-NLN,North Lincolnshire Council,Single tier,172748.0,150k - 200k
+NLK,North Lanarkshire Council,Single tier,341140.0,290k - 410k
+NLN,North Lincolnshire Council,Single tier,172748.0,140k - 210k
 NMD,"Newry, Mourne and Down District Council",Northern Ireland,181669.0,NA
 NNO,North Norfolk District Council,District councils,105167.0,110k - 120k
-NNT,North Northamptonshire Council,Single tier,350448.0,220k - 410k
+NNT,North Northamptonshire Council,Single tier,350448.0,290k - 410k
 NOW,Norwich City Council,District councils,142177.0,140k - 160k
-NSM,North Somerset  Council,Single tier,215574.0,200k - 640k
+NSM,North Somerset  Council,Single tier,215574.0,210k - 290k
 NTCA,North of Tyne Combined Authority,Combined/strategic authorities,839515.0,NA
-NTL,Neath Port Talbot County Borough Council,Single tier,144386.0,120k - 150k
+NTL,Neath Port Talbot County Borough Council,Single tier,144386.0,140k - 210k
 NTT,Nottinghamshire County Council,County councils,833377.0,800k - 1m
-NTY,North Tyneside Council,Single tier,208871.0,200k - 640k
+NTY,North Tyneside Council,Single tier,208871.0,140k - 210k
 NUN,Nuneaton and Bedworth Borough Council,District councils,130373.0,120k - 130k
 NWA,North Warwickshire Borough Council,District councils,65452.0,50k - 80k
 NWL,North West Leicestershire District Council,District councils,104809.0,90k - 100k
-NWM,London Borough of Newham,Single tier,355266.0,220k - 410k
-NWP,Newport City Council,Single tier,156447.0,150k - 200k
+NWM,London Borough of Newham,Single tier,355266.0,290k - 410k
+NWP,Newport City Council,Single tier,156447.0,140k - 210k
 NYK,North Yorkshire County Council,County councils,620610.0,under 800k
 OAD,Oadby and Wigston Borough Council,District councils,57313.0,50k - 80k
-OLD,Oldham Metropolitan Borough Council,Single tier,237628.0,220k - 410k
-ORK,Orkney Islands Council,Single tier,22400.0,0k - 110k
+OLD,Oldham Metropolitan Borough Council,Single tier,237628.0,210k - 290k
+ORK,Orkney Islands Council,Single tier,22400.0,0k - 140k
 OXF,Oxfordshire County Council,County councils,696880.0,under 800k
 OXO,Oxford City Council,District councils,151584.0,140k - 160k
-PEM,Pembrokeshire County Council,Single tier,126751.0,120k - 150k
+PEM,Pembrokeshire County Council,Single tier,126751.0,0k - 140k
 PEN,Pendle Borough Council,District councils,92145.0,80k - 90k
-PKN,Perth and Kinross Council,Single tier,151910.0,120k - 150k
-PLY,Plymouth City Council,Single tier,262839.0,220k - 410k
-POR,Portsmouth City Council,Single tier,214692.0,200k - 640k
-POW,Powys County Council,Single tier,133030.0,120k - 150k
+PKN,Perth and Kinross Council,Single tier,151910.0,140k - 210k
+PLY,Plymouth City Council,Single tier,262839.0,210k - 290k
+POR,Portsmouth City Council,Single tier,214692.0,210k - 290k
+POW,Powys County Council,Single tier,133030.0,0k - 140k
 PRE,Preston City Council,District councils,144147.0,140k - 160k
-PTE,Peterborough City Council,Single tier,202626.0,200k - 640k
-RCC,Redcar and Cleveland Borough Council,Single tier,137228.0,120k - 150k
-RCH,Rochdale Metropolitan Borough Council,Single tier,223659.0,220k - 410k
-RCT,Rhondda Cynon Taf County Borough Council,Single tier,241873.0,220k - 410k
-RDB,London Borough of Redbridge,Single tier,305658.0,220k - 410k
-RDG,Reading Borough Council,Single tier,160337.0,150k - 200k
+PTE,Peterborough City Council,Single tier,202626.0,140k - 210k
+RCC,Redcar and Cleveland Borough Council,Single tier,137228.0,0k - 140k
+RCH,Rochdale Metropolitan Borough Council,Single tier,223659.0,210k - 290k
+RCT,Rhondda Cynon Taf County Borough Council,Single tier,241873.0,210k - 290k
+RDB,London Borough of Redbridge,Single tier,305658.0,290k - 410k
+RDG,Reading Borough Council,Single tier,160337.0,140k - 210k
 RED,Redditch Borough Council,District councils,85568.0,80k - 90k
 REI,Reigate and Banstead Borough Council,District councils,149243.0,140k - 160k
-RFW,Renfrewshire Council,Single tier,179390.0,150k - 200k
+RFW,Renfrewshire Council,Single tier,179390.0,140k - 210k
 RIB,Ribble Valley Borough Council,District councils,62026.0,50k - 80k
-RIC,London Borough of Richmond upon Thames,Single tier,198141.0,200k - 640k
+RIC,London Borough of Richmond upon Thames,Single tier,198141.0,140k - 210k
 RIH,Richmondshire District Council,District councils,53732.0,50k - 80k
 ROC,Rochford District Council,District councils,87627.0,80k - 90k
 ROH,Rother District Council,District councils,96716.0,90k - 100k
 ROS,Rossendale Borough Council,District councils,71432.0,50k - 80k
-ROT,Rotherham Metropolitan Borough Council,Single tier,264984.0,220k - 410k
+ROT,Rotherham Metropolitan Borough Council,Single tier,264984.0,210k - 290k
 RUG,Rugby Borough Council,District councils,110650.0,110k - 120k
 RUH,Rushmoor Borough Council,District councils,94387.0,90k - 100k
 RUN,Runnymede Borough Council,District councils,90327.0,80k - 90k
 RUS,Rushcliffe Borough Council,District councils,121416.0,120k - 130k
-RUT,Rutland County Council,Single tier,40476.0,0k - 110k
+RUT,Rutland County Council,Single tier,40476.0,0k - 140k
 RYE,Ryedale District Council,District councils,55629.0,50k - 80k
 SAL,St Albans City and District Council,District councils,149317.0,140k - 160k
-SAW,Sandwell Metropolitan Borough Council,Single tier,329042.0,220k - 410k
-SAY,South Ayrshire Council,Single tier,112140.0,0k - 110k
+SAW,Sandwell Metropolitan Borough Council,Single tier,329042.0,290k - 410k
+SAY,South Ayrshire Council,Single tier,112140.0,0k - 140k
 SCA,South Cambridgeshire District Council,District councils,160904.0,140k - 160k
-SCB,Scottish Borders Council,Single tier,115240.0,120k - 150k
+SCB,Scottish Borders Council,Single tier,115240.0,0k - 140k
 SCE,Scarborough Borough Council,District councils,108737.0,110k - 120k
 SCR,Sheffield City Region,Combined/strategic authorities,1415054.0,NA
 SDE,South Derbyshire District Council,District councils,109516.0,110k - 120k
@@ -301,25 +301,25 @@ SEG,Sedgemoor District Council,District councils,123446.0,120k - 130k
 SEL,Selby District Council,District councils,91697.0,80k - 90k
 SEV,Sevenoaks District Council,District councils,121387.0,120k - 130k
 SFK,Suffolk County Council,County councils,761246.0,under 800k
-SFT,Sefton Metropolitan Borough Council,Single tier,275899.0,220k - 410k
-SGC,South Gloucestershire Council,Single tier,287816.0,220k - 410k
+SFT,Sefton Metropolitan Borough Council,Single tier,275899.0,210k - 290k
+SGC,South Gloucestershire Council,Single tier,287816.0,210k - 290k
 SHA,South Hams District Council,District councils,87946.0,80k - 90k
 SHE,Folkestone and Hythe District Council,District councils,113320.0,110k - 120k
-SHF,Sheffield City Council,Single tier,589214.0,200k - 640k
-SHN,St Helens Council,Single tier,181095.0,150k - 200k
+SHF,Sheffield City Council,Single tier,589214.0,440k - 640k
+SHN,St Helens Council,Single tier,181095.0,140k - 210k
 SHO,South Holland District Council,District councils,95857.0,90k - 100k
-SHR,Shropshire Council,Single tier,325415.0,220k - 410k
+SHR,Shropshire Council,Single tier,325415.0,290k - 410k
 SKE,South Kesteven District Council,District councils,143225.0,140k - 160k
-SKP,Stockport Metropolitan Borough Council,Single tier,294197.0,220k - 410k
+SKP,Stockport Metropolitan Borough Council,Single tier,294197.0,290k - 410k
 SLA,South Lakeland District Council,District councils,104905.0,90k - 100k
-SLF,Salford City Council,Single tier,262697.0,220k - 410k
-SLG,Slough Borough Council,Single tier,149577.0,120k - 150k
-SLK,South Lanarkshire Council,Single tier,320820.0,220k - 410k
-SND,Sunderland City Council,Single tier,277846.0,220k - 410k
+SLF,Salford City Council,Single tier,262697.0,210k - 290k
+SLG,Slough Borough Council,Single tier,149577.0,140k - 210k
+SLK,South Lanarkshire Council,Single tier,320820.0,290k - 410k
+SND,Sunderland City Council,Single tier,277846.0,210k - 290k
 SNO,South Norfolk District Council,District councils,143066.0,140k - 160k
-SOL,Solihull Metropolitan Borough Council,Single tier,217487.0,200k - 640k
+SOL,Solihull Metropolitan Borough Council,Single tier,217487.0,210k - 290k
 SOM,Somerset County Council,County councils,563851.0,under 800k
-SOS,Southend-on-Sea Borough Council,Single tier,182773.0,150k - 200k
+SOS,Southend-on-Sea Borough Council,Single tier,182773.0,140k - 210k
 SOX,South Oxfordshire District Council,District councils,143782.0,140k - 160k
 SPE,Spelthorne Borough Council,District councils,99873.0,90k - 100k
 SRI,South Ribble Borough Council,District councils,111086.0,110k - 120k
@@ -327,84 +327,84 @@ SRY,Surrey County Council,County councils,1199870.0,1m +
 SSO,South Somerset District Council,District councils,168696.0,170k - 250k
 SST,South Staffordshire Council,District councils,112369.0,110k - 120k
 STA,Stafford Borough Council,District councils,137858.0,140k - 160k
-STE,Stoke-on-Trent City Council,Single tier,256622.0,220k - 410k
+STE,Stoke-on-Trent City Council,Single tier,256622.0,210k - 290k
 STF,Staffordshire Moorlands District Council,District councils,98427.0,90k - 100k
-STG,Stirling Council,Single tier,94080.0,0k - 110k
-STH,Southampton City Council,Single tier,252872.0,220k - 410k
-STN,London Borough of Sutton,Single tier,207707.0,200k - 640k
+STG,Stirling Council,Single tier,94080.0,0k - 140k
+STH,Southampton City Council,Single tier,252872.0,210k - 290k
+STN,London Borough of Sutton,Single tier,207707.0,140k - 210k
 STO,Stroud District Council,District councils,120903.0,120k - 130k
 STR,Stratford-on-Avon District Council,District councils,132402.0,120k - 130k
 STS,Staffordshire County Council,County councils,883172.0,800k - 1m
-STT,Stockton-on-Tees Borough Council,Single tier,197419.0,150k - 200k
+STT,Stockton-on-Tees Borough Council,Single tier,197419.0,140k - 210k
 STV,Stevenage Borough Council,District councils,88104.0,80k - 90k
-STY,South Tyneside Council,Single tier,151133.0,120k - 150k
+STY,South Tyneside Council,Single tier,151133.0,140k - 210k
 SUR,Surrey Heath Borough Council,District councils,89204.0,80k - 90k
-SWA,City and County of Swansea Council,Single tier,246563.0,220k - 410k
-SWD,Swindon Borough Council,Single tier,222881.0,220k - 410k
-SWK,London Borough of Southwark,Single tier,320017.0,220k - 410k
+SWA,City and County of Swansea Council,Single tier,246563.0,210k - 290k
+SWD,Swindon Borough Council,Single tier,222881.0,210k - 290k
+SWK,London Borough of Southwark,Single tier,320017.0,290k - 410k
 SWL,Swale Borough Council,District councils,151015.0,140k - 160k
 SWT,Somerset West and Taunton Council,District councils,155421.0,140k - 160k
-TAM,Tameside Metropolitan Borough Council,Single tier,227117.0,220k - 410k
+TAM,Tameside Metropolitan Borough Council,Single tier,227117.0,210k - 290k
 TAN,Tandridge District Council,District councils,88542.0,80k - 90k
 TAW,Tamworth Borough Council,District councils,76864.0,50k - 80k
 TEI,Teignbridge District Council,District councils,135039.0,140k - 160k
 TEN,Tendring District Council,District councils,147353.0,140k - 160k
 TES,Test Valley Borough Council,District councils,127163.0,120k - 130k
 TEW,Tewkesbury Borough Council,District councils,96624.0,90k - 100k
-TFW,Telford & Wrekin Council,Single tier,181322.0,150k - 200k
+TFW,Telford & Wrekin Council,Single tier,181322.0,140k - 210k
 THA,Thanet District Council,District councils,141458.0,140k - 160k
 THE,Three Rivers District Council,District councils,93966.0,80k - 90k
-THR,Thurrock Council,Single tier,175531.0,150k - 200k
-TOB,Torbay Council,Single tier,136218.0,120k - 150k
-TOF,Torfaen County Borough Council,Single tier,94832.0,0k - 110k
+THR,Thurrock Council,Single tier,175531.0,140k - 210k
+TOB,Torbay Council,Single tier,136218.0,0k - 140k
+TOF,Torfaen County Borough Council,Single tier,94832.0,0k - 140k
 TON,Tonbridge and Malling Borough Council,District councils,132571.0,120k - 130k
 TOR,Torridge District Council,District councils,68719.0,50k - 80k
-TRF,Trafford Metropolitan Borough Council,Single tier,237579.0,220k - 410k
+TRF,Trafford Metropolitan Borough Council,Single tier,237579.0,210k - 290k
 TUN,Tunbridge Wells Borough Council,District councils,118939.0,120k - 130k
 TVCA,Tees Valley Combined Authority,Combined/strategic authorities,677170.0,NA
-TWH,London Borough of Tower Hamlets,Single tier,331969.0,220k - 410k
+TWH,London Borough of Tower Hamlets,Single tier,331969.0,290k - 410k
 UTT,Uttlesford District Council,District councils,92759.0,80k - 90k
 VAL,Vale of White Horse District Council,District councils,137910.0,140k - 160k
-VGL,Vale of Glamorgan Council,Single tier,135295.0,120k - 150k
+VGL,Vale of Glamorgan Council,Single tier,135295.0,0k - 140k
 WAE,Waverley Borough Council,District councils,126556.0,120k - 130k
 WAR,Warwickshire County Council,County councils,583786.0,under 800k
 WAT,Watford Borough Council,District councils,96623.0,90k - 100k
 WAW,Warwick District Council,District councils,144909.0,140k - 160k
-WBK,West Berkshire Council,Single tier,158465.0,150k - 200k
+WBK,West Berkshire Council,Single tier,158465.0,140k - 210k
 WDE,West Devon Borough Council,District councils,56139.0,50k - 80k
-WDU,West Dunbartonshire Council,Single tier,88340.0,0k - 110k
+WDU,West Dunbartonshire Council,Single tier,88340.0,0k - 140k
 WEA,Wealden District Council,District councils,162733.0,140k - 160k
 WECA,West of England Combined Authority,Combined/strategic authorities,,NA
 WEW,Welwyn Hatfield Borough Council,District councils,123893.0,120k - 130k
-WFT,London Borough of Waltham Forest,Single tier,276940.0,220k - 410k
-WGN,Wigan Metropolitan Borough Council,Single tier,330712.0,220k - 410k
-WIL,Wiltshire Council,Single tier,504070.0,200k - 640k
+WFT,London Borough of Waltham Forest,Single tier,276940.0,210k - 290k
+WGN,Wigan Metropolitan Borough Council,Single tier,330712.0,290k - 410k
+WIL,Wiltshire Council,Single tier,504070.0,440k - 640k
 WIN,Winchester City Council,District councils,125925.0,120k - 130k
-WKF,Wakefield Metropolitan District Council,Single tier,351592.0,220k - 410k
+WKF,Wakefield Metropolitan District Council,Single tier,351592.0,290k - 410k
 WLA,West Lancashire Borough Council,District councils,114496.0,110k - 120k
 WLI,West Lindsey District Council,District councils,96186.0,90k - 100k
-WLL,Walsall Metropolitan Borough Council,Single tier,286716.0,220k - 410k
-WLN,West Lothian Council,Single tier,183820.0,150k - 200k
-WLV,City of Wolverhampton Council,Single tier,264407.0,220k - 410k
+WLL,Walsall Metropolitan Borough Council,Single tier,286716.0,210k - 290k
+WLN,West Lothian Council,Single tier,183820.0,140k - 210k
+WLV,City of Wolverhampton Council,Single tier,264407.0,210k - 290k
 WMCA,West Midlands Combined Authority,Combined/strategic authorities,,NA
-WND,London Borough of Wandsworth,Single tier,329735.0,220k - 410k
-WNM,Royal Borough of Windsor and Maidenhead,Single tier,151273.0,120k - 150k
-WNT,West Northamptonshire Council,Single tier,406733.0,220k - 410k
+WND,London Borough of Wandsworth,Single tier,329735.0,290k - 410k
+WNM,Royal Borough of Windsor and Maidenhead,Single tier,151273.0,140k - 210k
+WNT,West Northamptonshire Council,Single tier,406733.0,290k - 410k
 WOC,Worcester City Council,District councils,100265.0,90k - 100k
 WOI,Woking Borough Council,District councils,100008.0,90k - 100k
-WOK,Wokingham Borough Council,Single tier,173945.0,150k - 200k
+WOK,Wokingham Borough Council,Single tier,173945.0,140k - 210k
 WOR,Worcestershire County Council,County councils,598070.0,under 800k
 WOT,Worthing Borough Council,District councils,110727.0,110k - 120k
 WOX,West Oxfordshire District Council,District councils,111758.0,110k - 120k
-WRL,Wirral Borough Council,Single tier,324336.0,220k - 410k
-WRT,Warrington Borough Council,Single tier,209397.0,200k - 640k
-WRX,Wrexham County Borough Council,Single tier,136055.0,120k - 150k
+WRL,Wirral Borough Council,Single tier,324336.0,290k - 410k
+WRT,Warrington Borough Council,Single tier,209397.0,140k - 210k
+WRX,Wrexham County Borough Council,Single tier,136055.0,0k - 140k
 WSK,West Suffolk Council,District councils,177302.0,170k - 250k
-WSM,City of Westminster,Single tier,269848.0,220k - 410k
+WSM,City of Westminster,Single tier,269848.0,210k - 290k
 WSX,West Sussex County Council,County councils,867635.0,800k - 1m
 WYC,Wychavon District Council,District councils,131084.0,120k - 130k
 WYCA,West Yorkshire Combined Authority,Combined/strategic authorities,2345235.0,NA
 WYE,Wyre Forest District Council,District councils,101139.0,90k - 100k
 WYR,Wyre Borough Council,District councils,113067.0,110k - 120k
-YOR,City of York Council,Single tier,211012.0,200k - 640k
-ZET,Shetland Islands Council,Single tier,22870.0,0k - 110k
+YOR,City of York Council,Single tier,211012.0,210k - 290k
+ZET,Shetland Islands Council,Single tier,22870.0,0k - 140k
