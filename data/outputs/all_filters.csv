@@ -408,3 +408,7 @@ WYE,22.784010227957065,1.0,90k - 100k,West Midlands,Non-metropolitan district,Ur
 WYR,20.76716669491751,2.0,110k - 120k,North West,Non-metropolitan district,Urban with rural areas,Conservative
 YOR,11.81076590319916,5.0,210k - 290k,Yorkshire and The Humber,Unitary authority,Urban,Coalition/Minority
 ZET,13.89227279320911,5.0,0k - 140k,Scotland,Scottish unitary authority,Sparse and rural,Independent
+CBD,22.981325960775173,3.0,210k - 290k,North West,Unitary authority,Rural,NA
+NYE,14.763832747623994,4.0,440k - 640k,Yorkshire and The Humber,Unitary authority,Rural,NA
+SMT,18.579305857975008,4.0,440k - 640k,South West,Unitary authority,Urban with rural areas,NA
+WAF,18.89198790984516,3.0,210k - 290k,South West,Unitary authority,Rural,NA
